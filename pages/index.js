@@ -60,7 +60,8 @@ export default function Home() {
                         <Image
                             borderRadius="full"
                             boxSize="150px"
-                            src="/images/MLpic.jpg" //C:/Users/siaic/Downloads/MLpic.jpg
+                            //src="/images/MLpic.jpg" //C:/Users/siaic/Downloads/MLpic.jpg
+                            src="/images/scp.jpeg"
                             alt="Profile"
                             mx="auto"
                         />
