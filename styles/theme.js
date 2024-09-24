@@ -1,16 +1,20 @@
 import { extendTheme } from "@chakra-ui/react";
 
 const theme = extendTheme({
+  config: {
+    initialColorMode: "dark",
+    useSystemColorMode: false,
+  },
   colors: {
-    primary: {
-      500: "#1A202C",  // Dark color theme
-    },
+    bg: "#000000",
+    text: "#FFFFFF",
+    accent: "#4A5568",
   },
   styles: {
     global: {
-      "html, body": {
-        background: "#f0f0f0",
-        color: "black",
+      body: {
+        bg: "bg",
+        color: "text",
       },
     },
   },

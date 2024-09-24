@@ -1,12 +1,20 @@
-import { Box, Heading, Text } from "@chakra-ui/react";
+import { Box,  Heading, Text, VStack } from "@chakra-ui/react";
 
 const About = () => (
-  <Box p={5}>
-    <Heading>About Me</Heading>
-    <Text>
-      Results-driven graduate with 4+ years of experience in data analysis, machine learning, and advanced NLP techniques. Currently pursuing a Master's in Machine Learning from Stevens Institute of Technology.
-    </Text>
-  </Box>
-);
-
-export default About;
+    <Box>
+      <Heading as="h2" size="md" mb={4} textTransform="lowercase" fontWeight="semibold">About</Heading>
+      <VStack align="start" spacing={3} textTransform="lowercase">
+        <Text>
+          I currently work at Community Dreams Foundation as a Machine Learning Engineer and building persona on the side. More details soon.
+        </Text>
+        <Text>
+          I am passionate about applying the use of AI to solve real-world problems.
+        </Text>
+        <Text>
+          I care deeply about learning and applying Machine Learning and AI. I am also an avid enjoyer of seeing things grow.
+        </Text>
+      </VStack>
+    </Box>
+  );
+  
+  export default About;
