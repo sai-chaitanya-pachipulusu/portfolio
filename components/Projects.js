@@ -3,7 +3,7 @@ import { Box, Heading, Text, Link, VStack, Flex, Spacer } from "@chakra-ui/react
 const Projects = () => (
   <Box>
     <Heading as="h2" size="md" mb={4} textTransform="lowercase" fontWeight="semibold">Projects</Heading>
-    <VStack align="start" spacing={3}>
+    <VStack align="start" spacing={4} textTransform="lowercase">
       <Box width="100%">
         <Flex alignItems="center">
           <Text fontWeight="semibold">Career Roadmap Generator</Text>

@@ -8,8 +8,9 @@ import Projects from "../components/Projects";
 import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 import BlurSection from "../components/BlurSection";
+//import FeaturedProject from "../components/FeaturedProject";
 //import NextLink from 'next/link';
-import Link from 'next/link';
+//import Link from 'next/link';
 
 function ErrorFallback({error}) {
     return (
@@ -54,18 +55,19 @@ export default function Home() {
     const [activeSection, setActiveSection] = useState(null);
 
     return (
-        <Container maxW="container.md" py={10}>
-            <VStack spacing={10} align="stretch">
+        <Container maxW="container.md" py={[5, 10]} px={[4, 6]}>
+            <VStack spacing={[6, 10]} align="stretch">
                     <Box textAlign="center">
                         <Image
                             borderRadius="full"
-                            boxSize="150px"
+                            //boxSize="120px"
+                            boxSize={["100px", "120px", "150px"]}
                             //src="/images/MLpic.jpg" //C:/Users/siaic/Downloads/MLpic.jpg
                             src="/images/scp.jpeg"
                             alt="Profile"
                             mx="auto"
                         />
-                        <Heading mt={2} mb={2}>Sai Chaitanya Pachipulusu</Heading>
+                        <Heading size="lg" mt={2} mb={2}>Sai Chaitanya Pachipulusu</Heading>
                         <Text textTransform="lowercase"> ml | software engineer | ai | rl</Text>
                     </Box>
                     

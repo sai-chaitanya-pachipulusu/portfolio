@@ -10,6 +10,9 @@ const Contact = () => (
         <Text>
           <Link href="https://www.linkedin.com/in/psaichaitanya/" isExternal color="grey.700" textTransform="lowercase">LinkedIn</Link>
         </Text>
+        <Text>
+          <Link href="https://twitter.com/chai_anya" isExternal color="grey.700" textTransform="lowercase">Twitter</Link>
+        </Text>
       </VStack>
     </Box>
   );

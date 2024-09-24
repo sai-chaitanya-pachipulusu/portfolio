@@ -1,4 +1,4 @@
-import { Box, Flex, Link } from "@chakra-ui/react";
+import { Box, Flex, Link, Stack } from "@chakra-ui/react";
 
 const Navbar = ({ setActiveSection }) => (
     <Box as="nav" bg="primary.500" color="white" p={4} textTransform="lowercase" position="fixed" top="0" left="0" right="0" zIndex="sticky">
@@ -14,4 +14,5 @@ const Navbar = ({ setActiveSection }) => (
       </Flex>
     </Box>
 );
+
 export default Navbar;
