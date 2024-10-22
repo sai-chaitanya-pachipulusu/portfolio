@@ -5,6 +5,11 @@ const Experience = () => (
     <Heading as="h2" size="md" mb={4} textTransform="lowercase" fontWeight="semibold">Experience</Heading>
     <VStack align="start" spacing={4} textTransform="lowercase">
       <Box>
+        <Link href="https://test-dreams.dreamhosters.com/" fontWeight="semibold">Community Dreams Foundation</Link>
+        <Text fontSize="sm" color="gray.500">Machine Learning Engineer | July 2024 - Present</Text>
+        <Text>Working on Generative AI applications and building scalable chatbots.</Text>
+      </Box>
+      <Box>
         <Link href="https://www.cgi.com/en" fontWeight="semibold">CGI</Link>
         <Text fontSize="sm" color="gray.500">Associate Software Engineer | Sep 2020 - Jun 2022</Text>
         <Text>Led data initiatives, developed dashboards, optimized ETL processes, and managed server deployments, reducing costs by 23% and earning 'Best Employee' for Q4 2021.</Text>
