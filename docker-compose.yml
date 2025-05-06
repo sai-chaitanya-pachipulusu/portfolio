@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  llm-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: llm-quantize-demo
+    ports:
+      - "8000:8000"
+    environment:
+      - MODEL_ID=TinyLlama/TinyLlama-1.1B-Chat-v1.0
+      - QUANTIZATION_METHOD=bitsandbytes
+      - QUANTIZATION_BITS=4
+    volumes:
+      - .:/app
+      - ~/.cache/huggingface:/root/.cache/huggingface
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    restart: unless-stopped 

@@ -1,0 +1,9 @@
+node_modules
+components/Essays.js
+components/FeaturedProject.js
+.env.local
+
+# Generated RAG data
+data/graph.json
+data/embeddings.json
+data/processed_sources.json
