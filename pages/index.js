@@ -92,13 +92,6 @@ export default function Home() {
                   </Box>
                 </AnimatedSection>
 
-                {/* Chat section is handled by the floating button/drawer, remove from main flow */}
-                {/* <Box id="chat-section" mb={12}>
-                  <BlurSection isActive={activeSection === 'chat'>
-                    <Chat /> 
-                  </BlurSection>
-                </Box> */}
-
                 <AnimatedSection delay={0.5}>
                   <Box id="contact-section" mb={12}> {/* Added margin back */} 
                     <BlurSection sectionId="contact" activeSection={activeSection}>

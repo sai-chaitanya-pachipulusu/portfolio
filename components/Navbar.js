@@ -11,34 +11,47 @@ import {
     Text
 } from '@chakra-ui/react';
 import { HamburgerIcon, CloseIcon } from '@chakra-ui/icons';
+import NextLink from 'next/link'; // Import Next.js Link
 
 // Custom NavLink component for consistent styling and scroll behavior
-const NavLink = ({ children, onClick, ...props }) => (
-    <ChakraLink
-        px={3}
-        py={1} // Slightly reduced vertical padding for a more compact look
-        rounded={'md'}
-        _hover={{
+const NavLink = ({ children, onClick, href, ...props }) => { // Added href for NextLink
+    const commonProps = {
+        px: 3,
+        py: 1,
+        rounded: 'md',
+        _hover: {
             textDecoration: 'none',
-            bg: 'rgba(255, 255, 255, 0.1)', // Lighter, subtle hover background
-        }}
-        onClick={onClick}
-        cursor="pointer"
-        color="white" // Ensure text is white
-        fontSize="sm" // Match reference style closer
-        {...props}
-    >
-        {children}
-    </ChakraLink>
-);
+            bg: 'rgba(255, 255, 255, 0.1)',
+        },
+        cursor: "pointer",
+        color: "white",
+        fontSize: "sm",
+        ...props
+    };
+
+    if (href) {
+        return (
+            <NextLink href={href} passHref legacyBehavior>
+                <ChakraLink {...commonProps}>{children}</ChakraLink>
+            </NextLink>
+        );
+    }
+
+    return (
+        <ChakraLink onClick={onClick} {...commonProps}>
+            {children}
+        </ChakraLink>
+    );
+};
 
 // Sections for the navbar
 const Links = [
-    { name: 'About', id: 'about-section' },
-    { name: 'Skills', id: 'skills-section' },
-    { name: 'Experience', id: 'experience-section' },
-    { name: 'Projects', id: 'projects-section' },
-    { name: 'Contact', id: 'contact-section' },
+    { name: 'About', id: 'about-section', type: 'scroll' },
+    { name: 'Skills', id: 'skills-section', type: 'scroll' },
+    { name: 'Experience', id: 'experience-section', type: 'scroll' },
+    { name: 'Projects', id: 'projects-section', type: 'scroll' },
+    { name: 'Fascinations', href: '/experimentaaal', type: 'navigate' }, // New link
+    { name: 'Contact', id: 'contact-section', type: 'scroll' },
 ];
 
 export default function Navbar({ setActiveSection, scrollToSection }) {
@@ -89,9 +102,13 @@ export default function Navbar({ setActiveSection, scrollToSection }) {
                 >
                     {Links.map((link) => (
                         <NavLink
-                            key={link.id}
+                            key={link.name} // Use name or href as key for uniqueness
+                            href={link.type === 'navigate' ? link.href : undefined}
                             onClick={() => {
-                                scrollToSection(link.id);
+                                if (link.type === 'scroll') {
+                                    scrollToSection(link.id);
+                                }
+                                // For 'navigate' type, NextLink handles navigation
                             }}
                         >
                             {link.name}
@@ -121,10 +138,13 @@ export default function Navbar({ setActiveSection, scrollToSection }) {
                          </NavLink>
                         {Links.map((link) => (
                             <NavLink
-                                key={link.id}
+                                key={link.name} // Use name or href as key
+                                href={link.type === 'navigate' ? link.href : undefined}
                                 onClick={() => {
-                                    scrollToSection(link.id);
-                                    onClose(); // Close menu after clicking
+                                    if (link.type === 'scroll') {
+                                        scrollToSection(link.id);
+                                    }
+                                    onClose(); // Close menu after clicking any link
                                 }}
                             >
                                 {link.name}
