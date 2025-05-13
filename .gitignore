@@ -2,7 +2,7 @@ node_modules
 components/Essays.js
 components/FeaturedProject.js
 .env.local
-
+.next
 # Generated RAG data
 data/graph.json
 data/embeddings.json
