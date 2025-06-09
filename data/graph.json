@@ -1,0 +1,4729 @@
+{
+  "nodes": [
+    [
+      "resume-0",
+      {
+        "id": "resume-0",
+        "type": "chunk",
+        "content": "Sai Chaitanya Pachipulusu\r\n\nlinkedin.com/in/psaichaitanya | github.com/chaitanyasaip | pachipulusu.vercel.app\r\n\nEmail : siai.chaitanyap@gmail.com\r\nMobile : +1 (551) 344-5967\r\n\nMachine Learning Engineer with 4+ years of experience delivering scalable AI solutions, including LLMs, RAG systems, and data pipelines, across diverse industries. Proven track record of reducing costs, improving efficiency, and driving innovation through cutting-edge ML and data engineering techniques.\r\n\nSKILLS & ACCOMPLISHMENTS\r",
+        "metadata": {
+          "sourceType": "resume",
+          "chunkIndex": 0,
+          "sourceId": "resume"
+        }
+      }
+    ],
+    [
+      "resume-1",
+      {
+        "id": "resume-1",
+        "type": "chunk",
+        "content": "SKILLS & ACCOMPLISHMENTS\r\n\n• Programming Languages: Python, Java, C++, R, SQL\r\n• Technical: Statistical Analysis, Probability and Inference, Analytical Methods, Machine Learning Algorithms, MLOps, Neural Networks (CNN, RNN, LSTM), GANs, VAEs, Autoencoders, Transformers, LLM, NER, knowledge graphs, Hive, Scala, GCP, Clustering, Regression, Statistics, Mathematics, Selenium, BeautifulSoup, Linux/UNIX, Advanced Analytics, Predictive Models, Data Science, Natural Language Processing, Data Manipulation, Data Visualization, Critical thinking, GenAI solutions, Prompt engineering, Optimization, Agile, Data analysis, Data pipelines, Data integration, data classification, data governance, Data lakes\r\n• Frameworks/Libraries: PyTorch, TensorFlow, Snowflake, Streamlit, Keras, Scikit-learn, XGBoost, PySpark, NumPy, Pandas, spaCy, Natural Language Tool Kit, Apache Spark, Matplotlib, Hadoop, Seaborn, Apache Kafka, LightGBM, Plotly, JAX\r\n• Generative AI: LLMs, RAG Pipelines, LangChain, Llamaindex, Weaviate, Pinecone, ChromaDB, Fine-tuning (LoRA/PEFT), FAISS\r\n• Database Management Systems: Relational-Databases (MySQL, PostgreSQL), MariaDB, NoSQL, SparkSQL, SQL\r\n• Tools/Platforms: AWS (S3, EC2, Lambda, SageMaker, Bedrock), Databricks, Tableau, PowerBI, Visual Studio, WEKA, phpMyAdmin, Red Hat Network Satellite, Excel, Version Control (Git), CI/CD (Docker, Kubernetes), A/B testing, Terraform, BigQuery\r\n• Certifications: Getting Started with PowerBI (Coursera), Machine Learning Specialization (Coursera), Python for Everybody (Coursera), SPSS certified professional in Data mining and Warehousing\r\n\nEXPERIENCE\r",
+        "metadata": {
+          "sourceType": "resume",
+          "chunkIndex": 1,
+          "sourceId": "resume"
+        }
+      }
+    ],
+    [
+      "resume-2",
+      {
+        "id": "resume-2",
+        "type": "chunk",
+        "content": "EXPERIENCE\r\n\n• Community Dreams Foundation                                                                       Remote, USA \r\nMachine Learning Engineer                                                                          Jul 2024 - Present\r\n  • Architected an HR tool using BERT, RoBERTa, and Sentence-BERT embeddings to match resumes with job descriptions, cutting manual screening by 90% from 10 hours to 1 hour per job and speeding up the hiring by 40% through context-aware ranking\r\n  • Built an end-to-end cloud-native pipeline with Python, FastAPI, and Kubeflow on Kubernetes for automated interview scheduling, achieving 92% candidate selection precision measured in pilot with 50 companies\r\n  • Automated rejection emails with sentiment-aware templates with VADER score above 0.6, handling 200+ weekly communications and reducing admin work by 90% from 15 hours/week to 1.5 hours/week while ensuring empathetic, bias-free communication\r\n  • Developed a fine-tuned BERT model and Flask microservice to automate personalized rejection communications, processing 200+ weekly applicants with 94% positive feedback rate while reducing HR workload by 90% through contextual response generation\r\n  • Designed a RAG chatbot with Mistral, PyTorch on AWS SageMaker, achieving 90% response relevance and reducing ticket escalations by 25%, saving an estimated 200+ hours annually for the support team\r",
+        "metadata": {
+          "sourceType": "resume",
+          "chunkIndex": 2,
+          "sourceId": "resume"
+        }
+      }
+    ],
+    [
+      "resume-3",
+      {
+        "id": "resume-3",
+        "type": "chunk",
+        "content": "• Community Dreams Foundation                                                                       Remote, USA \r\nMachine Learning Engineer                                                                          Jul 2024 - Present\r\n  • Architected an HR tool using BERT, RoBERTa, and Sentence-BERT embeddings to match resumes with job descriptions, cutting manual screening by 90% from 10 hours to 1 hour per job and speeding up the hiring by 40% through context-aware ranking\r\n  • Built an end-to-end cloud-native pipeline with Python, FastAPI, and Kubeflow on Kubernetes for automated interview scheduling, achieving 92% candidate selection precision measured in pilot with 50 companies\r\n  • Automated rejection emails with sentiment-aware templates with VADER score above 0.6, handling 200+ weekly communications and reducing admin work by 90% from 15 hours/week to 1.5 hours/week while ensuring empathetic, bias-free communication\r\n  • Developed a fine-tuned BERT model and Flask microservice to automate personalized rejection communications, processing 200+ weekly applicants with 94% positive feedback rate while reducing HR workload by 90% through contextual response generation\r\n  • Designed a RAG chatbot with Mistral, PyTorch on AWS SageMaker, achieving 90% response relevance and reducing ticket escalations by 25%, saving an estimated 200+ hours annually for the support team\r\n\n• CGI Information Systems and Management Consultants Pvt. Ltd                                       Bengaluru, India \r\nData Engineer/ Associate Software Engineer (Client: Shell Corporation)                             Sep 2020 - Jun 2022\r\n  • Developed a real-time ingest layer using Kafka Connect to capture 8 sensor data streams (400 events/second) from factory equipment, reducing data availability lag from overnight batch to less than 5 minutes for maintenance teams\r\n  • Wrote and maintained 15+ Python ETL scripts to process daily Shell refinery data files (CSV, JSON) into a centralized SQL data warehouse, enabling dashboard KPIs previously unavailable to operating teams\r\n  • Led migration of 52 legacy servers to AWS EC2 (t3.xlarge instances) using Terraform, reducing monthly costs by $18k and ensuring 99.9% uptime over 6-month period\r\n  • Optimized Databricks medallion architecture with schema validation and incremental processing, reducing data pipeline failures from 12 to 3 (75% decrease) per week and cutting recovery time from 4 hours to 45 minutes for Shell's refinery operations\r\n  • Awarded Best Employee for Q4 2021 for exceptional contributions to project efficiency and collaboration with interdisciplinary teams, leading 30% of the overall data migration effort\r",
+        "metadata": {
+          "sourceType": "resume",
+          "chunkIndex": 3,
+          "sourceId": "resume"
+        }
+      }
+    ],
+    [
+      "resume-4",
+      {
+        "id": "resume-4",
+        "type": "chunk",
+        "content": "• CGI Information Systems and Management Consultants Pvt. Ltd                                       Bengaluru, India \r\nData Engineer/ Associate Software Engineer (Client: Shell Corporation)                             Sep 2020 - Jun 2022\r\n  • Developed a real-time ingest layer using Kafka Connect to capture 8 sensor data streams (400 events/second) from factory equipment, reducing data availability lag from overnight batch to less than 5 minutes for maintenance teams\r\n  • Wrote and maintained 15+ Python ETL scripts to process daily Shell refinery data files (CSV, JSON) into a centralized SQL data warehouse, enabling dashboard KPIs previously unavailable to operating teams\r\n  • Led migration of 52 legacy servers to AWS EC2 (t3.xlarge instances) using Terraform, reducing monthly costs by $18k and ensuring 99.9% uptime over 6-month period\r\n  • Optimized Databricks medallion architecture with schema validation and incremental processing, reducing data pipeline failures from 12 to 3 (75% decrease) per week and cutting recovery time from 4 hours to 45 minutes for Shell's refinery operations\r\n  • Awarded Best Employee for Q4 2021 for exceptional contributions to project efficiency and collaboration with interdisciplinary teams, leading 30% of the overall data migration effort\r\n\n• Imbuedesk Pvt. Ltd                                                                               Hyderabad, India \r\nMachine Learning Engineer                                                                          May 2018 - Aug 2020\r\n  • Achieved 97% accuracy on FER2013 dataset by developing facial expression recognition system using OpenCV and TensorFlow\r\n  • Processed 50K vehicle plates daily by designing an image processing pipeline with Tesseract OCR orchestrated with Kubernetes\r\n  • Reduced equipment downtime by 28% through implementation of predictive maintenance dashboards with AWS Beanstalk\r\n  • Decreased image processing latency by 66% by building a Kafka-based pipeline handling 35MB/hour with a 3-node consumer topology\r\n  • Implemented back-pressure handling for peak traffic periods when processing volume increased by 300%\r",
+        "metadata": {
+          "sourceType": "resume",
+          "chunkIndex": 4,
+          "sourceId": "resume"
+        }
+      }
+    ],
+    [
+      "resume-5",
+      {
+        "id": "resume-5",
+        "type": "chunk",
+        "content": "• Imbuedesk Pvt. Ltd                                                                               Hyderabad, India \r\nMachine Learning Engineer                                                                          May 2018 - Aug 2020\r\n  • Achieved 97% accuracy on FER2013 dataset by developing facial expression recognition system using OpenCV and TensorFlow\r\n  • Processed 50K vehicle plates daily by designing an image processing pipeline with Tesseract OCR orchestrated with Kubernetes\r\n  • Reduced equipment downtime by 28% through implementation of predictive maintenance dashboards with AWS Beanstalk\r\n  • Decreased image processing latency by 66% by building a Kafka-based pipeline handling 35MB/hour with a 3-node consumer topology\r\n  • Implemented back-pressure handling for peak traffic periods when processing volume increased by 300%\r\n\nTECHNICAL PROJECTS\r\n\n• Career Roadmap Generator | Generative AI, RAG System, Streamlit, ChromaDB | Huggingface\r\nIntegrated GPT 3.5, GPT-4o models with ChromaDB for context-aware recommendations to the job description achieving 0.87 hit@5 score on an evaluation set of 200 anonymized job transitions from tech professionals. Async implementation reduced API latency from 12 to 4 seconds for 10+ concurrent users\r",
+        "metadata": {
+          "sourceType": "resume",
+          "chunkIndex": 5,
+          "sourceId": "resume"
+        }
+      }
+    ],
+    [
+      "resume-6",
+      {
+        "id": "resume-6",
+        "type": "chunk",
+        "content": "• Career Roadmap Generator | Generative AI, RAG System, Streamlit, ChromaDB | Huggingface\r\nIntegrated GPT 3.5, GPT-4o models with ChromaDB for context-aware recommendations to the job description achieving 0.87 hit@5 score on an evaluation set of 200 anonymized job transitions from tech professionals. Async implementation reduced API latency from 12 to 4 seconds for 10+ concurrent users\r\n\n• SaaS Chatbot | Large Language Model, Llama-2-7B, Langchain, Streamlit, Python\r\nDeveloped support chatbot by fine-tuning Llama-2-7B using parameter-efficient PEFT/LoRA techniques on 5k support conversations. Deployed on a single A10 GPU achieved 84% accuracy while reducing inference costs by 65% compared to hosted API solutions\r\n\nEDUCATION\r\n\n• Stevens Institute of Technology                                                                   Hoboken, NJ\r\nMaster of Science in Machine Learning; CGPA: 3.9                                                   Sep 2022 - May 2024\r\n\n• Sreenidhi Institute of Science and Technology                                                     Hyderabad, India\r\nBachelor of Technology in Information Technology                                                    Aug 2016 - May 2020 ",
+        "metadata": {
+          "sourceType": "resume",
+          "chunkIndex": 6,
+          "sourceId": "resume"
+        }
+      }
+    ],
+    [
+      "medium-0",
+      {
+        "id": "medium-0",
+        "type": "chunk",
+        "content": "Title: Building Effective RAG Systems with Knowledge Graphs\r\nAuthor: Sai Chaitanya Pachipulusu\r\nDate: April 5, 2024\r\n\nRetrieval-Augmented Generation (RAG) has become a cornerstone in modern AI solutions, enabling large language models to access external knowledge. However, traditional RAG systems often struggle with complex reasoning tasks and maintaining contextual relationships between pieces of information. This is where Knowledge Graphs can significantly enhance RAG capabilities.\r\n\nIn this article, I'll share my experience implementing a Graph RAG system that improved response accuracy by 37% compared to traditional vector-based approaches.\r\n\nThe Knowledge Graph Advantage:\r\n1. Structural Information: Unlike flat embeddings, graphs preserve relationships between entities\r\n2. Multi-hop Reasoning: Enable models to follow logical paths through connected information\r\n3. Context Preservation: Maintain hierarchical and semantic connections between concepts\r\n\nImplementation Process:\r\nMy implementation used Neo4j as the graph database with entity recognition techniques to extract key concepts from documents. Each entity became a node, with relationships formed based on co-occurrence and semantic similarity. The query process involved:\r\n\n1. Converting user questions to graph queries\r\n2. Traversing the graph to find relevant information paths\r\n3. Synthesizing information from multiple nodes\r\n4. Providing sources with confidence metrics\r",
+        "metadata": {
+          "sourceType": "medium",
+          "chunkIndex": 0,
+          "sourceId": "medium"
+        }
+      }
+    ],
+    [
+      "medium-1",
+      {
+        "id": "medium-1",
+        "type": "chunk",
+        "content": "Synthesizing information from multiple nodes\r\n4. Providing sources with confidence metrics\r\n\nThis approach particularly shines in domains requiring deep expertise where relationships between concepts are crucial, such as medical diagnosis, financial analysis, or complex technical documentation.\r\n\nChallenges and Solutions:\r\n- Graph Construction Complexity: Automated relationship extraction requires sophisticated NLP\r\n- Query Translation: Converting natural language to graph queries requires specialized techniques\r\n- Performance at Scale: Graph traversal can be computationally expensive with large knowledge bases\r\n\nFuture Directions:\r\nI'm currently exploring hybrid approaches that combine the strength of vector embeddings for semantic similarity with graph structures for relationship modeling. This promises to deliver more accurate, explainable, and contextually aware AI responses.\r\n\n---\r\n\nTitle: Fine-Tuning LLMs: When, Why and How\r\nAuthor: Sai Chaitanya Pachipulusu\r\nDate: March 12, 2024\r\n\nWhile API access to powerful models like GPT-4 and Claude has democratized AI capabilities, many organizations are finding that fine-tuning their own models provides significant advantages in specialized domains. In this article, I'll explore when fine-tuning makes sense, and how to approach it efficiently.\r",
+        "metadata": {
+          "sourceType": "medium",
+          "chunkIndex": 1,
+          "sourceId": "medium"
+        }
+      }
+    ],
+    [
+      "medium-2",
+      {
+        "id": "medium-2",
+        "type": "chunk",
+        "content": "In this article, I'll explore when fine-tuning makes sense, and how to approach it efficiently. \n\nWhen to Fine-Tune:\r\n1. Domain Specificity: Your application requires deep knowledge in a specialized field\r\n2. Consistent Style/Format: You need responses that follow strict templates or brand voice\r\n3. Data Privacy: You can't send sensitive information to third-party APIs\r\n4. Cost Optimization: High-volume applications may benefit economically from self-hosted models\r\n5. Latency Requirements: When response time is critical and API calls add unacceptable latency\r\n\nThe Fine-Tuning Process:\r\nBased on my experience implementing fine-tuned models for enterprise clients, I recommend this process:\r\n\n1. Data Collection: Gather high-quality examples of desired inputs and outputs\r\n2. Data Cleaning: Ensure consistency and remove errors or inappropriate content\r\n3. Model Selection: Choose an appropriate base model (Llama 3, Mistral, etc.) considering size/performance tradeoffs\r\n4. Parameter-Efficient Fine-Tuning: Use techniques like LoRA or QLoRA to reduce computational requirements\r\n5. Evaluation: Develop clear metrics for success that align with business objectives\r\n6. Deployment: Consider quantization for production to reduce inference costs\r",
+        "metadata": {
+          "sourceType": "medium",
+          "chunkIndex": 2,
+          "sourceId": "medium"
+        }
+      }
+    ],
+    [
+      "medium-3",
+      {
+        "id": "medium-3",
+        "type": "chunk",
+        "content": "Evaluation: Develop clear metrics for success that align with business objectives\r\n6. Deployment: Consider quantization for production to reduce inference costs\r\n\nCommon Pitfalls:\r\n- Overfitting to Training Examples: Models can memorize training data rather than generalizing\r\n- Catastrophic Forgetting: Models may lose general capabilities during fine-tuning\r\n- Training Data Quality Issues: \"Garbage in, garbage out\" applies strongly to fine-tuning\r\n- Inadequate Evaluation: Failure to detect performance issues before deployment\r\n\nCase Study: Customer Service Optimization\r\nI recently implemented a fine-tuned Mistral 7B model for technical support that reduced escalations by 32% and improved customer satisfaction scores by 18%. The key was creating synthetic training data that covered the long tail of technical issues while maintaining a consistent, empathetic tone.\r\n\n---\r\n\nTitle: Practical Prompt Engineering Techniques for Production Systems\r\nAuthor: Sai Chaitanya Pachipulusu\r\nDate: February 8, 2024\r\n\nAs organizations integrate LLMs into production systems, the art and science of prompt engineering has evolved from ad-hoc experiments to structured methodologies. In this article, I'll share battle-tested techniques for developing robust prompting strategies that scale reliably in production environments.\r",
+        "metadata": {
+          "sourceType": "medium",
+          "chunkIndex": 3,
+          "sourceId": "medium"
+        }
+      }
+    ],
+    [
+      "medium-4",
+      {
+        "id": "medium-4",
+        "type": "chunk",
+        "content": "In this article, I'll share battle-tested techniques for developing robust prompting strategies that scale reliably in production environments. \n\nThe Evolution of Prompting:\r\nFrom simple text completion to sophisticated frameworks like ReAct and Chain-of-Thought, prompt engineering has matured dramatically. Today's production systems require prompts that are:\r\n\n1. Resilient to input variations\r\n2. Optimized for model capabilities\r\n3. Aligned with business requirements\r\n4. Maintainable across model updates\r\n5. Testable against performance metrics\r\n\nCore Techniques for Production-Ready Prompting:\r\nBased on implementing AI systems across various industries, these are my most effective strategies:\r\n\nStructured Formatting:\r\nDefine clear input schemas with examples, constraints, and expected output formats. JSON templates work exceptionally well for structured outputs.\r\n\nContext Management:\r\nWith context windows expanding but still limited, implementing strategic context pruning and prioritization is essential for long-running conversations or document processing.\r\n\nInstruction Layering:\r\nSeparate prompts into distinct layers - system-level directives, user-specific instructions, and task-specific guidance - allowing for modular updates and maintenance.\r\n\nDynamic Prompt Generation:\r\nImplement programmatic prompt construction that adapts to user needs, available data, and previous interaction history.\r\n\nError Handling:\r\nDevelop robust fallback strategies for edge cases, hallucinations, and model limitations.\r",
+        "metadata": {
+          "sourceType": "medium",
+          "chunkIndex": 4,
+          "sourceId": "medium"
+        }
+      }
+    ],
+    [
+      "medium-5",
+      {
+        "id": "medium-5",
+        "type": "chunk",
+        "content": "Error Handling:\r\nDevelop robust fallback strategies for edge cases, hallucinations, and model limitations. \n\nMeasuring Prompt Performance:\r\nEstablish clear metrics for:\r\n- Output quality (accuracy, relevance)\r\n- Consistency across similar inputs\r\n- Robustness to edge cases\r\n- Computational efficiency (token usage)\r\n\nImplementation Example:\r\nIn a recent financial analysis application, we improved accuracy from 76% to 94% by implementing structured JSON outputs with validation schemas and chain-of-thought reasoning. The key innovation was dynamically adjusting prompt complexity based on the detected difficulty of the query.\r\n\nFuture Directions:\r\nAs models continue to evolve, effective prompt engineering will increasingly focus on meta-prompting - teaching models how to refine their own understanding of tasks through iterative feedback loops.\r\n\n---\r\n\nTitle: Building Scalable AI Data Pipelines: Lessons from Production\r\nAuthor: Sai Chaitanya Pachipulusu\r\nDate: January 15, 2024\r\n\nBehind every successful AI application lies a sophisticated data pipeline. As AI systems mature from prototypes to production services, the engineering challenges of data processing become increasingly significant. This article distills key lessons from my experience building and optimizing data pipelines for large-scale AI deployments.\r",
+        "metadata": {
+          "sourceType": "medium",
+          "chunkIndex": 5,
+          "sourceId": "medium"
+        }
+      }
+    ],
+    [
+      "medium-6",
+      {
+        "id": "medium-6",
+        "type": "chunk",
+        "content": "This article distills key lessons from my experience building and optimizing data pipelines for large-scale AI deployments. \n\nThe Data Pipeline Challenge:\r\nModern AI systems require pipelines that can:\r\n1. Process diverse data formats and sources\r\n2. Handle varying volumes with consistent performance\r\n3. Maintain data quality and provenance\r\n4. Support experimentation while ensuring reproducibility\r\n5. Scale cost-effectively with usage\r\n\nCore Components of AI Data Infrastructure:\r\nBased on production implementations across multiple industries, these components form the backbone of effective AI data systems:\r\n\nIngestion Layer:\r\n- Event-driven architectures using Kafka or Kinesis for real-time data\r\n- Scheduled batch processing for historical data\r\n- Change data capture (CDC) for database synchronization\r\n- API connectors for third-party data sources\r\n\nProcessing Layer:\r\n- Data validation and schema enforcement\r\n- ETL/ELT operations for transformation\r\n- Feature extraction and embedding generation\r\n- Data augmentation and synthetic data creation\r\n\nStorage Layer:\r\n- Data lakes for raw, immutable data\r\n- Feature stores for ML-ready attributes\r\n- Vector databases for embedding storage and retrieval\r\n- Metadata repositories for lineage tracking\r",
+        "metadata": {
+          "sourceType": "medium",
+          "chunkIndex": 6,
+          "sourceId": "medium"
+        }
+      }
+    ],
+    [
+      "medium-7",
+      {
+        "id": "medium-7",
+        "type": "chunk",
+        "content": "Storage Layer:\r\n- Data lakes for raw, immutable data\r\n- Feature stores for ML-ready attributes\r\n- Vector databases for embedding storage and retrieval\r\n- Metadata repositories for lineage tracking\r\n\nOperational Concerns:\r\n- Monitoring data quality metrics and drift detection\r\n- Managing schema evolution\r\n- Implementing appropriate partitioning strategies\r\n- Balancing cost vs. performance in storage decisions\r\n\nCase Study: Scaling Embedding Generation\r\nWhen developing a large-scale RAG system processing millions of documents daily, we faced challenges with embedding generation becoming a bottleneck. Our solution implemented:\r\n\n1. Asynchronous processing queues with priority tiers\r\n2. Horizontal scaling with dynamic worker allocation\r\n3. Chunk-level deduplication to eliminate redundant processing\r\n4. Progressive embedding updates targeting only changed content\r\n5. Embedding caching with LRU eviction strategies\r\n\nThis reduced processing costs by 78% while improving throughput by 5x.\r\n\nDesign Principles for AI Data Systems:\r\n- Favor decoupled components with clear interfaces\r\n- Design for incremental processing by default\r\n- Implement comprehensive observability from day one\r\n- Anticipate scale challenges before they occur\r\n- Establish data contracts between system components\r\n\nAs AI systems continue to evolve, the sophistication of supporting data infrastructure will increasingly determine which applications succeed at scale. ",
+        "metadata": {
+          "sourceType": "medium",
+          "chunkIndex": 7,
+          "sourceId": "medium"
+        }
+      }
+    ],
+    [
+      "twitter-0",
+      {
+        "id": "twitter-0",
+        "type": "chunk",
+        "content": "2024-04-15: Just published my latest article on Medium about building Knowledge Graph-based RAG systems! Improved accuracy by 37% compared to traditional vector search. #KnowledgeGraphs #RAG #AI\r\n\n2024-04-10: Excited to share that I've joined Community Dreams Foundation as a Machine Learning Engineer! Looking forward to building innovative AI solutions for HR and support systems. #NewRole #AI #ML\r\n\n2024-04-05: Hot take: Fine-tuning smaller open-source LLMs often beats using giant API models for specialized domains. Lower latency, better privacy, and more control. Been seeing great results with Mistral 7B + LoRA. #LLMs #AI #OpenSource\r\n\n2024-03-28: Just finished implementing a RAG system with ChromaDB for a job transition recommender. Hit@5 score of 0.87! Async processing cut API latency from 12s to 4s. #GenAI #RAG #ChromaDB\r\n\n2024-03-20: The synergy between vector databases and knowledge graphs is underexplored. Vector search for semantic similarity + graph traversal for relationship understanding = powerful combination. Working on this hybrid approach now. #VectorDB #KnowledgeGraphs\r\n\n2024-03-15: Current tech stack for our production RAG systems: LangChain + Mistral + ChromaDB for fast prototyping, with custom pipelines for production scale. What's everyone else using? #LLMOps #RAG\r",
+        "metadata": {
+          "sourceType": "twitter",
+          "chunkIndex": 0,
+          "sourceId": "twitter"
+        }
+      }
+    ],
+    [
+      "twitter-1",
+      {
+        "id": "twitter-1",
+        "type": "chunk",
+        "content": "What's everyone else using. #LLMOps #RAG\r\n\n2024-03-08: TIL: Caching embeddings at both chunk and document levels reduced our vector search costs by 68% in production. Small optimizations add up! #VectorDatabases #CostOptimization\r\n\n2024-03-01: Just gave a talk at Stevens Tech on practical prompt engineering for production systems. Key takeaway: structured outputs + chain-of-thought reasoning + robust error handling = reliable AI systems. #PromptEngineering #AI\r\n\n2024-02-25: Running benchmark tests on different vector DB solutions. So far, Pinecone edges out on speed for our use case, but Weaviate's hybrid search capabilities are impressive. #VectorDatabases #RAG\r\n\n2024-02-20: Excited to graduate from Stevens Institute of Technology with my MS in Machine Learning in May! It's been an incredible journey deepening my AI expertise. #GradSchool #MachineLearning\r\n\n2024-02-15: Controversial opinion: Most RAG implementations are overengineered. Start simple - good chunking strategy + basic search is often enough. Add complexity only when you hit specific bottlenecks. #RAG #AI #Engineering\r\n\n2024-02-10: Been experimenting with Llama 3 for our customer support chatbot. The quality improvement over Llama 2 is substantial, especially for nuanced conversations. #Llama3 #CustomerSupport\r",
+        "metadata": {
+          "sourceType": "twitter",
+          "chunkIndex": 1,
+          "sourceId": "twitter"
+        }
+      }
+    ],
+    [
+      "twitter-2",
+      {
+        "id": "twitter-2",
+        "type": "chunk",
+        "content": "The quality improvement over Llama 2 is substantial, especially for nuanced conversations. #Llama3 #CustomerSupport\r\n\n2024-02-05: My go-to embedding model recently: all-MiniLM-L6-v2. Fast, efficient, and surprisingly effective for most RAG use cases. What are you all using? #Embeddings #NLP\r\n\n2024-01-30: Just deployed a custom trained NER model for extracting structured data from technical documents. 95% accuracy and 10x faster than manual processing! #NER #ML #DataExtraction\r\n\n2024-01-25: Thread: 5 lessons learned from building AI data pipelines at scale:\r\n1. Data quality trumps model complexity every time\r\n2. Build observability from day one\r\n3. Automate validation at every stage\r\n4. Design for incremental processing\r\n5. Monitor drift continuously\r\n#MLOps #DataEngineering\r\n\n2024-01-20: Working on a project to extract knowledge graphs from technical documentation. The combination of LLMs for relationship extraction + traditional NLP for entity recognition is powerful! #KnowledgeGraphs #NLP\r\n\n2024-01-15: Published my article on scaling AI data pipelines in production environments. Reduced processing costs by 78% while improving throughput 5x! #MLOps #Scalability #DataPipelines\r\n\n2024-01-10: Multimodal models are transforming how we build AI applications. Currently exploring MM1 for a project that integrates document understanding with visual inspection. #MultimodalAI #ComputerVision\r",
+        "metadata": {
+          "sourceType": "twitter",
+          "chunkIndex": 2,
+          "sourceId": "twitter"
+        }
+      }
+    ],
+    [
+      "twitter-3",
+      {
+        "id": "twitter-3",
+        "type": "chunk",
+        "content": "Currently exploring MM1 for a project that integrates document understanding with visual inspection. #MultimodalAI #ComputerVision\r\n\n2024-01-05: New year resolution: Contribute more to open source AI projects. Starting with some PRs to LangChain for improved ChromaDB integration. #OpenSource #AI #LangChain ",
+        "metadata": {
+          "sourceType": "twitter",
+          "chunkIndex": 3,
+          "sourceId": "twitter"
+        }
+      }
+    ],
+    [
+      "entity:rag",
+      {
+        "id": "entity:rag",
+        "type": "entity",
+        "name": "rag",
+        "category": "TECH"
+      }
+    ],
+    [
+      "entity:machine learning",
+      {
+        "id": "entity:machine learning",
+        "type": "entity",
+        "name": "machine learning",
+        "category": "CONCEPT"
+      }
+    ],
+    [
+      "entity:ai",
+      {
+        "id": "entity:ai",
+        "type": "entity",
+        "name": "ai",
+        "category": "CONCEPT"
+      }
+    ],
+    [
+      "entity:custom:sai chaitanya pachipulusu",
+      {
+        "id": "entity:custom:sai chaitanya pachipulusu",
+        "type": "entity",
+        "name": "Sai Chaitanya Pachipulusu",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:machine learning engineer",
+      {
+        "id": "entity:custom:machine learning engineer",
+        "type": "entity",
+        "name": "Machine Learning Engineer",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:python",
+      {
+        "id": "entity:python",
+        "type": "entity",
+        "name": "python",
+        "category": "TECH"
+      }
+    ],
+    [
+      "entity:pytorch",
+      {
+        "id": "entity:pytorch",
+        "type": "entity",
+        "name": "pytorch",
+        "category": "TECH"
+      }
+    ],
+    [
+      "entity:tensorflow",
+      {
+        "id": "entity:tensorflow",
+        "type": "entity",
+        "name": "tensorflow",
+        "category": "TECH"
+      }
+    ],
+    [
+      "entity:llm",
+      {
+        "id": "entity:llm",
+        "type": "entity",
+        "name": "llm",
+        "category": "TECH"
+      }
+    ],
+    [
+      "entity:aws",
+      {
+        "id": "entity:aws",
+        "type": "entity",
+        "name": "aws",
+        "category": "TECH"
+      }
+    ],
+    [
+      "entity:lambda",
+      {
+        "id": "entity:lambda",
+        "type": "entity",
+        "name": "lambda",
+        "category": "TECH"
+      }
+    ],
+    [
+      "entity:ec2",
+      {
+        "id": "entity:ec2",
+        "type": "entity",
+        "name": "ec2",
+        "category": "TECH"
+      }
+    ],
+    [
+      "entity:kubernetes",
+      {
+        "id": "entity:kubernetes",
+        "type": "entity",
+        "name": "kubernetes",
+        "category": "TECH"
+      }
+    ],
+    [
+      "entity:kafka",
+      {
+        "id": "entity:kafka",
+        "type": "entity",
+        "name": "kafka",
+        "category": "TECH"
+      }
+    ],
+    [
+      "entity:docker",
+      {
+        "id": "entity:docker",
+        "type": "entity",
+        "name": "docker",
+        "category": "TECH"
+      }
+    ],
+    [
+      "entity:natural language processing",
+      {
+        "id": "entity:natural language processing",
+        "type": "entity",
+        "name": "natural language processing",
+        "category": "CONCEPT"
+      }
+    ],
+    [
+      "entity:fine-tuning",
+      {
+        "id": "entity:fine-tuning",
+        "type": "entity",
+        "name": "fine-tuning",
+        "category": "CONCEPT"
+      }
+    ],
+    [
+      "entity:prompt engineering",
+      {
+        "id": "entity:prompt engineering",
+        "type": "entity",
+        "name": "prompt engineering",
+        "category": "CONCEPT"
+      }
+    ],
+    [
+      "entity:custom:programming languages",
+      {
+        "id": "entity:custom:programming languages",
+        "type": "entity",
+        "name": "Programming Languages",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:statistical analysis",
+      {
+        "id": "entity:custom:statistical analysis",
+        "type": "entity",
+        "name": "Statistical Analysis",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:analytical methods",
+      {
+        "id": "entity:custom:analytical methods",
+        "type": "entity",
+        "name": "Analytical Methods",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:machine learning algorithms",
+      {
+        "id": "entity:custom:machine learning algorithms",
+        "type": "entity",
+        "name": "Machine Learning Algorithms",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:neural networks",
+      {
+        "id": "entity:custom:neural networks",
+        "type": "entity",
+        "name": "Neural Networks",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:advanced analytics",
+      {
+        "id": "entity:custom:advanced analytics",
+        "type": "entity",
+        "name": "Advanced Analytics",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:predictive models",
+      {
+        "id": "entity:custom:predictive models",
+        "type": "entity",
+        "name": "Predictive Models",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:data science",
+      {
+        "id": "entity:custom:data science",
+        "type": "entity",
+        "name": "Data Science",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:natural language processing",
+      {
+        "id": "entity:custom:natural language processing",
+        "type": "entity",
+        "name": "Natural Language Processing",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:data manipulation",
+      {
+        "id": "entity:custom:data manipulation",
+        "type": "entity",
+        "name": "Data Manipulation",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:data visualization",
+      {
+        "id": "entity:custom:data visualization",
+        "type": "entity",
+        "name": "Data Visualization",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:natural language tool kit",
+      {
+        "id": "entity:custom:natural language tool kit",
+        "type": "entity",
+        "name": "Natural Language Tool Kit",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:apache spark",
+      {
+        "id": "entity:custom:apache spark",
+        "type": "entity",
+        "name": "Apache Spark",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:apache kafka",
+      {
+        "id": "entity:custom:apache kafka",
+        "type": "entity",
+        "name": "Apache Kafka",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:database management systems",
+      {
+        "id": "entity:custom:database management systems",
+        "type": "entity",
+        "name": "Database Management Systems",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:visual studio",
+      {
+        "id": "entity:custom:visual studio",
+        "type": "entity",
+        "name": "Visual Studio",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:red hat network satellite",
+      {
+        "id": "entity:custom:red hat network satellite",
+        "type": "entity",
+        "name": "Red Hat Network Satellite",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:version control",
+      {
+        "id": "entity:custom:version control",
+        "type": "entity",
+        "name": "Version Control",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:getting started",
+      {
+        "id": "entity:custom:getting started",
+        "type": "entity",
+        "name": "Getting Started",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:machine learning specialization",
+      {
+        "id": "entity:custom:machine learning specialization",
+        "type": "entity",
+        "name": "Machine Learning Specialization",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:bert",
+      {
+        "id": "entity:bert",
+        "type": "entity",
+        "name": "bert",
+        "category": "TECH"
+      }
+    ],
+    [
+      "entity:mistral",
+      {
+        "id": "entity:mistral",
+        "type": "entity",
+        "name": "mistral",
+        "category": "TECH"
+      }
+    ],
+    [
+      "entity:embeddings",
+      {
+        "id": "entity:embeddings",
+        "type": "entity",
+        "name": "embeddings",
+        "category": "CONCEPT"
+      }
+    ],
+    [
+      "entity:precision",
+      {
+        "id": "entity:precision",
+        "type": "entity",
+        "name": "precision",
+        "category": "METRIC"
+      }
+    ],
+    [
+      "entity:custom:community dreams foundation                                                                       remote",
+      {
+        "id": "entity:custom:community dreams foundation                                                                       remote",
+        "type": "entity",
+        "name": "Community Dreams Foundation                                                                       Remote",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:machine learning engineer                                                                          jul",
+      {
+        "id": "entity:custom:machine learning engineer                                                                          jul",
+        "type": "entity",
+        "name": "Machine Learning Engineer                                                                          Jul",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:information systems",
+      {
+        "id": "entity:custom:information systems",
+        "type": "entity",
+        "name": "Information Systems",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:management consultants pvt",
+      {
+        "id": "entity:custom:management consultants pvt",
+        "type": "entity",
+        "name": "Management Consultants Pvt",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:ltd                                       bengaluru",
+      {
+        "id": "entity:custom:ltd                                       bengaluru",
+        "type": "entity",
+        "name": "Ltd                                       Bengaluru",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:india \r\ndata engineer",
+      {
+        "id": "entity:custom:india \r\ndata engineer",
+        "type": "entity",
+        "name": "India \r\nData Engineer",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:associate software engineer",
+      {
+        "id": "entity:custom:associate software engineer",
+        "type": "entity",
+        "name": "Associate Software Engineer",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:shell corporation",
+      {
+        "id": "entity:custom:shell corporation",
+        "type": "entity",
+        "name": "Shell Corporation",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:kafka connect",
+      {
+        "id": "entity:custom:kafka connect",
+        "type": "entity",
+        "name": "Kafka Connect",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:optimized databricks",
+      {
+        "id": "entity:custom:optimized databricks",
+        "type": "entity",
+        "name": "Optimized Databricks",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:awarded best employee",
+      {
+        "id": "entity:custom:awarded best employee",
+        "type": "entity",
+        "name": "Awarded Best Employee",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:accuracy",
+      {
+        "id": "entity:accuracy",
+        "type": "entity",
+        "name": "accuracy",
+        "category": "METRIC"
+      }
+    ],
+    [
+      "entity:latency",
+      {
+        "id": "entity:latency",
+        "type": "entity",
+        "name": "latency",
+        "category": "METRIC"
+      }
+    ],
+    [
+      "entity:custom:imbuedesk pvt",
+      {
+        "id": "entity:custom:imbuedesk pvt",
+        "type": "entity",
+        "name": "Imbuedesk Pvt",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:ltd                                                                               hyderabad",
+      {
+        "id": "entity:custom:ltd                                                                               hyderabad",
+        "type": "entity",
+        "name": "Ltd                                                                               Hyderabad",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:india \r\nmachine learning engineer                                                                          may",
+      {
+        "id": "entity:custom:india \r\nmachine learning engineer                                                                          may",
+        "type": "entity",
+        "name": "India \r\nMachine Learning Engineer                                                                          May",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:gpt",
+      {
+        "id": "entity:gpt",
+        "type": "entity",
+        "name": "gpt",
+        "category": "TECH"
+      }
+    ],
+    [
+      "entity:custom:career roadmap generator",
+      {
+        "id": "entity:custom:career roadmap generator",
+        "type": "entity",
+        "name": "Career Roadmap Generator",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:huggingface\r\nintegrated",
+      {
+        "id": "entity:custom:huggingface\r\nintegrated",
+        "type": "entity",
+        "name": "Huggingface\r\nIntegrated",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:large language model",
+      {
+        "id": "entity:custom:large language model",
+        "type": "entity",
+        "name": "Large Language Model",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:python\r\ndeveloped",
+      {
+        "id": "entity:custom:python\r\ndeveloped",
+        "type": "entity",
+        "name": "Python\r\nDeveloped",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:stevens institute",
+      {
+        "id": "entity:custom:stevens institute",
+        "type": "entity",
+        "name": "Stevens Institute",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:technology                                                                   hoboken",
+      {
+        "id": "entity:custom:technology                                                                   hoboken",
+        "type": "entity",
+        "name": "Technology                                                                   Hoboken",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:machine learning",
+      {
+        "id": "entity:custom:machine learning",
+        "type": "entity",
+        "name": "Machine Learning",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:sreenidhi institute",
+      {
+        "id": "entity:custom:sreenidhi institute",
+        "type": "entity",
+        "name": "Sreenidhi Institute",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:technology                                                     hyderabad",
+      {
+        "id": "entity:custom:technology                                                     hyderabad",
+        "type": "entity",
+        "name": "Technology                                                     Hyderabad",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:india\r\nbachelor",
+      {
+        "id": "entity:custom:india\r\nbachelor",
+        "type": "entity",
+        "name": "India\r\nBachelor",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:information technology                                                    aug",
+      {
+        "id": "entity:custom:information technology                                                    aug",
+        "type": "entity",
+        "name": "Information Technology                                                    Aug",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:building effective",
+      {
+        "id": "entity:custom:building effective",
+        "type": "entity",
+        "name": "Building Effective",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:knowledge graphs\r\nauthor",
+      {
+        "id": "entity:custom:knowledge graphs\r\nauthor",
+        "type": "entity",
+        "name": "Knowledge Graphs\r\nAuthor",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:sai chaitanya pachipulusu\r\ndate",
+      {
+        "id": "entity:custom:sai chaitanya pachipulusu\r\ndate",
+        "type": "entity",
+        "name": "Sai Chaitanya Pachipulusu\r\nDate",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:augmented generation",
+      {
+        "id": "entity:custom:augmented generation",
+        "type": "entity",
+        "name": "Augmented Generation",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:knowledge graphs",
+      {
+        "id": "entity:custom:knowledge graphs",
+        "type": "entity",
+        "name": "Knowledge Graphs",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:the knowledge graph advantage",
+      {
+        "id": "entity:custom:the knowledge graph advantage",
+        "type": "entity",
+        "name": "The Knowledge Graph Advantage",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:structural information",
+      {
+        "id": "entity:custom:structural information",
+        "type": "entity",
+        "name": "Structural Information",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:context preservation",
+      {
+        "id": "entity:custom:context preservation",
+        "type": "entity",
+        "name": "Context Preservation",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:implementation process",
+      {
+        "id": "entity:custom:implementation process",
+        "type": "entity",
+        "name": "Implementation Process",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:nlp",
+      {
+        "id": "entity:nlp",
+        "type": "entity",
+        "name": "nlp",
+        "category": "CONCEPT"
+      }
+    ],
+    [
+      "entity:custom:graph construction complexity",
+      {
+        "id": "entity:custom:graph construction complexity",
+        "type": "entity",
+        "name": "Graph Construction Complexity",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:query translation",
+      {
+        "id": "entity:custom:query translation",
+        "type": "entity",
+        "name": "Query Translation",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:future directions",
+      {
+        "id": "entity:custom:future directions",
+        "type": "entity",
+        "name": "Future Directions",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:how\r\nauthor",
+      {
+        "id": "entity:custom:how\r\nauthor",
+        "type": "entity",
+        "name": "How\r\nAuthor",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:cost",
+      {
+        "id": "entity:cost",
+        "type": "entity",
+        "name": "cost",
+        "category": "METRIC"
+      }
+    ],
+    [
+      "entity:custom:domain specificity",
+      {
+        "id": "entity:custom:domain specificity",
+        "type": "entity",
+        "name": "Domain Specificity",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:consistent style",
+      {
+        "id": "entity:custom:consistent style",
+        "type": "entity",
+        "name": "Consistent Style",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:data privacy",
+      {
+        "id": "entity:custom:data privacy",
+        "type": "entity",
+        "name": "Data Privacy",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:cost optimization",
+      {
+        "id": "entity:custom:cost optimization",
+        "type": "entity",
+        "name": "Cost Optimization",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:latency requirements",
+      {
+        "id": "entity:custom:latency requirements",
+        "type": "entity",
+        "name": "Latency Requirements",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:the fine",
+      {
+        "id": "entity:custom:the fine",
+        "type": "entity",
+        "name": "The Fine",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:tuning process",
+      {
+        "id": "entity:custom:tuning process",
+        "type": "entity",
+        "name": "Tuning Process",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:data collection",
+      {
+        "id": "entity:custom:data collection",
+        "type": "entity",
+        "name": "Data Collection",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:data cleaning",
+      {
+        "id": "entity:custom:data cleaning",
+        "type": "entity",
+        "name": "Data Cleaning",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:model selection",
+      {
+        "id": "entity:custom:model selection",
+        "type": "entity",
+        "name": "Model Selection",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:efficient fine",
+      {
+        "id": "entity:custom:efficient fine",
+        "type": "entity",
+        "name": "Efficient Fine",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:common pitfalls",
+      {
+        "id": "entity:custom:common pitfalls",
+        "type": "entity",
+        "name": "Common Pitfalls",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:training examples",
+      {
+        "id": "entity:custom:training examples",
+        "type": "entity",
+        "name": "Training Examples",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:catastrophic forgetting",
+      {
+        "id": "entity:custom:catastrophic forgetting",
+        "type": "entity",
+        "name": "Catastrophic Forgetting",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:training data quality issues",
+      {
+        "id": "entity:custom:training data quality issues",
+        "type": "entity",
+        "name": "Training Data Quality Issues",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:inadequate evaluation",
+      {
+        "id": "entity:custom:inadequate evaluation",
+        "type": "entity",
+        "name": "Inadequate Evaluation",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:case study",
+      {
+        "id": "entity:custom:case study",
+        "type": "entity",
+        "name": "Case Study",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:customer service optimization",
+      {
+        "id": "entity:custom:customer service optimization",
+        "type": "entity",
+        "name": "Customer Service Optimization",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:practical prompt engineering techniques",
+      {
+        "id": "entity:custom:practical prompt engineering techniques",
+        "type": "entity",
+        "name": "Practical Prompt Engineering Techniques",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:production systems\r\nauthor",
+      {
+        "id": "entity:custom:production systems\r\nauthor",
+        "type": "entity",
+        "name": "Production Systems\r\nAuthor",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:the evolution",
+      {
+        "id": "entity:custom:the evolution",
+        "type": "entity",
+        "name": "The Evolution",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:core techniques",
+      {
+        "id": "entity:custom:core techniques",
+        "type": "entity",
+        "name": "Core Techniques",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:ready prompting",
+      {
+        "id": "entity:custom:ready prompting",
+        "type": "entity",
+        "name": "Ready Prompting",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:structured formatting",
+      {
+        "id": "entity:custom:structured formatting",
+        "type": "entity",
+        "name": "Structured Formatting",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:context management",
+      {
+        "id": "entity:custom:context management",
+        "type": "entity",
+        "name": "Context Management",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:instruction layering",
+      {
+        "id": "entity:custom:instruction layering",
+        "type": "entity",
+        "name": "Instruction Layering",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:dynamic prompt generation",
+      {
+        "id": "entity:custom:dynamic prompt generation",
+        "type": "entity",
+        "name": "Dynamic Prompt Generation",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:error handling",
+      {
+        "id": "entity:custom:error handling",
+        "type": "entity",
+        "name": "Error Handling",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:measuring prompt performance",
+      {
+        "id": "entity:custom:measuring prompt performance",
+        "type": "entity",
+        "name": "Measuring Prompt Performance",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:implementation example",
+      {
+        "id": "entity:custom:implementation example",
+        "type": "entity",
+        "name": "Implementation Example",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:building scalable",
+      {
+        "id": "entity:custom:building scalable",
+        "type": "entity",
+        "name": "Building Scalable",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:data pipelines",
+      {
+        "id": "entity:custom:data pipelines",
+        "type": "entity",
+        "name": "Data Pipelines",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:production\r\nauthor",
+      {
+        "id": "entity:custom:production\r\nauthor",
+        "type": "entity",
+        "name": "Production\r\nAuthor",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:the data pipeline challenge",
+      {
+        "id": "entity:custom:the data pipeline challenge",
+        "type": "entity",
+        "name": "The Data Pipeline Challenge",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:core components",
+      {
+        "id": "entity:custom:core components",
+        "type": "entity",
+        "name": "Core Components",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:data infrastructure",
+      {
+        "id": "entity:custom:data infrastructure",
+        "type": "entity",
+        "name": "Data Infrastructure",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:ingestion layer",
+      {
+        "id": "entity:custom:ingestion layer",
+        "type": "entity",
+        "name": "Ingestion Layer",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:processing layer",
+      {
+        "id": "entity:custom:processing layer",
+        "type": "entity",
+        "name": "Processing Layer",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:storage layer",
+      {
+        "id": "entity:custom:storage layer",
+        "type": "entity",
+        "name": "Storage Layer",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:throughput",
+      {
+        "id": "entity:throughput",
+        "type": "entity",
+        "name": "throughput",
+        "category": "METRIC"
+      }
+    ],
+    [
+      "entity:custom:operational concerns",
+      {
+        "id": "entity:custom:operational concerns",
+        "type": "entity",
+        "name": "Operational Concerns",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:scaling embedding generation\r\nwhen",
+      {
+        "id": "entity:custom:scaling embedding generation\r\nwhen",
+        "type": "entity",
+        "name": "Scaling Embedding Generation\r\nWhen",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:design principles",
+      {
+        "id": "entity:custom:design principles",
+        "type": "entity",
+        "name": "Design Principles",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:data systems",
+      {
+        "id": "entity:custom:data systems",
+        "type": "entity",
+        "name": "Data Systems",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:knowledge graph",
+      {
+        "id": "entity:custom:knowledge graph",
+        "type": "entity",
+        "name": "Knowledge Graph",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:community dreams foundation",
+      {
+        "id": "entity:custom:community dreams foundation",
+        "type": "entity",
+        "name": "Community Dreams Foundation",
+        "category": "CUSTOM"
+      }
+    ],
+    [
+      "entity:custom:stevens tech",
+      {
+        "id": "entity:custom:stevens tech",
+        "type": "entity",
+        "name": "Stevens Tech",
+        "category": "CUSTOM"
+      }
+    ]
+  ],
+  "edges": [
+    [
+      "entity:rag->resume-0",
+      {
+        "from": "entity:rag",
+        "to": "resume-0",
+        "type": "mentioned_in",
+        "weight": 23
+      }
+    ],
+    [
+      "entity:rag",
+      {}
+    ],
+    [
+      "entity:rag->resume-1",
+      {
+        "from": "entity:rag",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 23
+      }
+    ],
+    [
+      "entity:rag->resume-2",
+      {
+        "from": "entity:rag",
+        "to": "resume-2",
+        "type": "mentioned_in",
+        "weight": 23
+      }
+    ],
+    [
+      "entity:rag->resume-3",
+      {
+        "from": "entity:rag",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 23
+      }
+    ],
+    [
+      "entity:rag->resume-5",
+      {
+        "from": "entity:rag",
+        "to": "resume-5",
+        "type": "mentioned_in",
+        "weight": 23
+      }
+    ],
+    [
+      "entity:rag->resume-6",
+      {
+        "from": "entity:rag",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 23
+      }
+    ],
+    [
+      "entity:rag->medium-0",
+      {
+        "from": "entity:rag",
+        "to": "medium-0",
+        "type": "mentioned_in",
+        "weight": 23
+      }
+    ],
+    [
+      "entity:rag->medium-7",
+      {
+        "from": "entity:rag",
+        "to": "medium-7",
+        "type": "mentioned_in",
+        "weight": 23
+      }
+    ],
+    [
+      "entity:rag->twitter-0",
+      {
+        "from": "entity:rag",
+        "to": "twitter-0",
+        "type": "mentioned_in",
+        "weight": 23
+      }
+    ],
+    [
+      "entity:rag->twitter-1",
+      {
+        "from": "entity:rag",
+        "to": "twitter-1",
+        "type": "mentioned_in",
+        "weight": 23
+      }
+    ],
+    [
+      "entity:rag->twitter-2",
+      {
+        "from": "entity:rag",
+        "to": "twitter-2",
+        "type": "mentioned_in",
+        "weight": 23
+      }
+    ],
+    [
+      "entity:machine learning->resume-0",
+      {
+        "from": "entity:machine learning",
+        "to": "resume-0",
+        "type": "mentioned_in",
+        "weight": 10
+      }
+    ],
+    [
+      "entity:machine learning",
+      {}
+    ],
+    [
+      "entity:machine learning->resume-1",
+      {
+        "from": "entity:machine learning",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 10
+      }
+    ],
+    [
+      "entity:machine learning->resume-2",
+      {
+        "from": "entity:machine learning",
+        "to": "resume-2",
+        "type": "mentioned_in",
+        "weight": 10
+      }
+    ],
+    [
+      "entity:machine learning->resume-3",
+      {
+        "from": "entity:machine learning",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 10
+      }
+    ],
+    [
+      "entity:machine learning->resume-4",
+      {
+        "from": "entity:machine learning",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 10
+      }
+    ],
+    [
+      "entity:machine learning->resume-5",
+      {
+        "from": "entity:machine learning",
+        "to": "resume-5",
+        "type": "mentioned_in",
+        "weight": 10
+      }
+    ],
+    [
+      "entity:machine learning->resume-6",
+      {
+        "from": "entity:machine learning",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 10
+      }
+    ],
+    [
+      "entity:machine learning->twitter-0",
+      {
+        "from": "entity:machine learning",
+        "to": "twitter-0",
+        "type": "mentioned_in",
+        "weight": 10
+      }
+    ],
+    [
+      "entity:machine learning->twitter-1",
+      {
+        "from": "entity:machine learning",
+        "to": "twitter-1",
+        "type": "mentioned_in",
+        "weight": 10
+      }
+    ],
+    [
+      "entity:ai->resume-0",
+      {
+        "from": "entity:ai",
+        "to": "resume-0",
+        "type": "mentioned_in",
+        "weight": 31
+      }
+    ],
+    [
+      "entity:ai",
+      {}
+    ],
+    [
+      "entity:ai->resume-1",
+      {
+        "from": "entity:ai",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 31
+      }
+    ],
+    [
+      "entity:ai->resume-5",
+      {
+        "from": "entity:ai",
+        "to": "resume-5",
+        "type": "mentioned_in",
+        "weight": 31
+      }
+    ],
+    [
+      "entity:ai->resume-6",
+      {
+        "from": "entity:ai",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 31
+      }
+    ],
+    [
+      "entity:ai->medium-0",
+      {
+        "from": "entity:ai",
+        "to": "medium-0",
+        "type": "mentioned_in",
+        "weight": 31
+      }
+    ],
+    [
+      "entity:ai->medium-1",
+      {
+        "from": "entity:ai",
+        "to": "medium-1",
+        "type": "mentioned_in",
+        "weight": 31
+      }
+    ],
+    [
+      "entity:ai->medium-4",
+      {
+        "from": "entity:ai",
+        "to": "medium-4",
+        "type": "mentioned_in",
+        "weight": 31
+      }
+    ],
+    [
+      "entity:ai->medium-5",
+      {
+        "from": "entity:ai",
+        "to": "medium-5",
+        "type": "mentioned_in",
+        "weight": 31
+      }
+    ],
+    [
+      "entity:ai->medium-6",
+      {
+        "from": "entity:ai",
+        "to": "medium-6",
+        "type": "mentioned_in",
+        "weight": 31
+      }
+    ],
+    [
+      "entity:ai->medium-7",
+      {
+        "from": "entity:ai",
+        "to": "medium-7",
+        "type": "mentioned_in",
+        "weight": 31
+      }
+    ],
+    [
+      "entity:ai->twitter-0",
+      {
+        "from": "entity:ai",
+        "to": "twitter-0",
+        "type": "mentioned_in",
+        "weight": 31
+      }
+    ],
+    [
+      "entity:ai->twitter-1",
+      {
+        "from": "entity:ai",
+        "to": "twitter-1",
+        "type": "mentioned_in",
+        "weight": 31
+      }
+    ],
+    [
+      "entity:ai->twitter-2",
+      {
+        "from": "entity:ai",
+        "to": "twitter-2",
+        "type": "mentioned_in",
+        "weight": 31
+      }
+    ],
+    [
+      "entity:ai->twitter-3",
+      {
+        "from": "entity:ai",
+        "to": "twitter-3",
+        "type": "mentioned_in",
+        "weight": 31
+      }
+    ],
+    [
+      "entity:custom:sai chaitanya pachipulusu->resume-0",
+      {
+        "from": "entity:custom:sai chaitanya pachipulusu",
+        "to": "resume-0",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:sai chaitanya pachipulusu",
+      {}
+    ],
+    [
+      "entity:custom:machine learning engineer->resume-0",
+      {
+        "from": "entity:custom:machine learning engineer",
+        "to": "resume-0",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:machine learning engineer",
+      {}
+    ],
+    [
+      "entity:custom:machine learning engineer->twitter-0",
+      {
+        "from": "entity:custom:machine learning engineer",
+        "to": "twitter-0",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:python->resume-1",
+      {
+        "from": "entity:python",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 7
+      }
+    ],
+    [
+      "entity:python",
+      {}
+    ],
+    [
+      "entity:python->resume-2",
+      {
+        "from": "entity:python",
+        "to": "resume-2",
+        "type": "mentioned_in",
+        "weight": 7
+      }
+    ],
+    [
+      "entity:python->resume-3",
+      {
+        "from": "entity:python",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 7
+      }
+    ],
+    [
+      "entity:python->resume-4",
+      {
+        "from": "entity:python",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 7
+      }
+    ],
+    [
+      "entity:python->resume-6",
+      {
+        "from": "entity:python",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 7
+      }
+    ],
+    [
+      "entity:pytorch->resume-1",
+      {
+        "from": "entity:pytorch",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 3
+      }
+    ],
+    [
+      "entity:pytorch",
+      {}
+    ],
+    [
+      "entity:pytorch->resume-2",
+      {
+        "from": "entity:pytorch",
+        "to": "resume-2",
+        "type": "mentioned_in",
+        "weight": 3
+      }
+    ],
+    [
+      "entity:pytorch->resume-3",
+      {
+        "from": "entity:pytorch",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 3
+      }
+    ],
+    [
+      "entity:tensorflow->resume-1",
+      {
+        "from": "entity:tensorflow",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 3
+      }
+    ],
+    [
+      "entity:tensorflow",
+      {}
+    ],
+    [
+      "entity:tensorflow->resume-4",
+      {
+        "from": "entity:tensorflow",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 3
+      }
+    ],
+    [
+      "entity:tensorflow->resume-5",
+      {
+        "from": "entity:tensorflow",
+        "to": "resume-5",
+        "type": "mentioned_in",
+        "weight": 3
+      }
+    ],
+    [
+      "entity:llm->resume-1",
+      {
+        "from": "entity:llm",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:llm",
+      {}
+    ],
+    [
+      "entity:aws->resume-1",
+      {
+        "from": "entity:aws",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 7
+      }
+    ],
+    [
+      "entity:aws",
+      {}
+    ],
+    [
+      "entity:aws->resume-2",
+      {
+        "from": "entity:aws",
+        "to": "resume-2",
+        "type": "mentioned_in",
+        "weight": 7
+      }
+    ],
+    [
+      "entity:aws->resume-3",
+      {
+        "from": "entity:aws",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 7
+      }
+    ],
+    [
+      "entity:aws->resume-4",
+      {
+        "from": "entity:aws",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 7
+      }
+    ],
+    [
+      "entity:aws->resume-5",
+      {
+        "from": "entity:aws",
+        "to": "resume-5",
+        "type": "mentioned_in",
+        "weight": 7
+      }
+    ],
+    [
+      "entity:lambda->resume-1",
+      {
+        "from": "entity:lambda",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:lambda",
+      {}
+    ],
+    [
+      "entity:ec2->resume-1",
+      {
+        "from": "entity:ec2",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 3
+      }
+    ],
+    [
+      "entity:ec2",
+      {}
+    ],
+    [
+      "entity:ec2->resume-3",
+      {
+        "from": "entity:ec2",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 3
+      }
+    ],
+    [
+      "entity:ec2->resume-4",
+      {
+        "from": "entity:ec2",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 3
+      }
+    ],
+    [
+      "entity:kubernetes->resume-1",
+      {
+        "from": "entity:kubernetes",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 5
+      }
+    ],
+    [
+      "entity:kubernetes",
+      {}
+    ],
+    [
+      "entity:kubernetes->resume-2",
+      {
+        "from": "entity:kubernetes",
+        "to": "resume-2",
+        "type": "mentioned_in",
+        "weight": 5
+      }
+    ],
+    [
+      "entity:kubernetes->resume-3",
+      {
+        "from": "entity:kubernetes",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 5
+      }
+    ],
+    [
+      "entity:kubernetes->resume-4",
+      {
+        "from": "entity:kubernetes",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 5
+      }
+    ],
+    [
+      "entity:kubernetes->resume-5",
+      {
+        "from": "entity:kubernetes",
+        "to": "resume-5",
+        "type": "mentioned_in",
+        "weight": 5
+      }
+    ],
+    [
+      "entity:kafka->resume-1",
+      {
+        "from": "entity:kafka",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:kafka",
+      {}
+    ],
+    [
+      "entity:kafka->resume-3",
+      {
+        "from": "entity:kafka",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:kafka->resume-4",
+      {
+        "from": "entity:kafka",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:kafka->resume-5",
+      {
+        "from": "entity:kafka",
+        "to": "resume-5",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:kafka->medium-6",
+      {
+        "from": "entity:kafka",
+        "to": "medium-6",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:docker->resume-1",
+      {
+        "from": "entity:docker",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:docker",
+      {}
+    ],
+    [
+      "entity:natural language processing->resume-1",
+      {
+        "from": "entity:natural language processing",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:natural language processing",
+      {}
+    ],
+    [
+      "entity:fine-tuning->resume-1",
+      {
+        "from": "entity:fine-tuning",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 11
+      }
+    ],
+    [
+      "entity:fine-tuning",
+      {}
+    ],
+    [
+      "entity:fine-tuning->resume-6",
+      {
+        "from": "entity:fine-tuning",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 11
+      }
+    ],
+    [
+      "entity:fine-tuning->medium-1",
+      {
+        "from": "entity:fine-tuning",
+        "to": "medium-1",
+        "type": "mentioned_in",
+        "weight": 11
+      }
+    ],
+    [
+      "entity:fine-tuning->medium-2",
+      {
+        "from": "entity:fine-tuning",
+        "to": "medium-2",
+        "type": "mentioned_in",
+        "weight": 11
+      }
+    ],
+    [
+      "entity:fine-tuning->medium-3",
+      {
+        "from": "entity:fine-tuning",
+        "to": "medium-3",
+        "type": "mentioned_in",
+        "weight": 11
+      }
+    ],
+    [
+      "entity:fine-tuning->twitter-0",
+      {
+        "from": "entity:fine-tuning",
+        "to": "twitter-0",
+        "type": "mentioned_in",
+        "weight": 11
+      }
+    ],
+    [
+      "entity:prompt engineering->resume-1",
+      {
+        "from": "entity:prompt engineering",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:prompt engineering",
+      {}
+    ],
+    [
+      "entity:prompt engineering->medium-3",
+      {
+        "from": "entity:prompt engineering",
+        "to": "medium-3",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:prompt engineering->medium-4",
+      {
+        "from": "entity:prompt engineering",
+        "to": "medium-4",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:prompt engineering->medium-5",
+      {
+        "from": "entity:prompt engineering",
+        "to": "medium-5",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:prompt engineering->twitter-1",
+      {
+        "from": "entity:prompt engineering",
+        "to": "twitter-1",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:custom:programming languages->resume-1",
+      {
+        "from": "entity:custom:programming languages",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:programming languages",
+      {}
+    ],
+    [
+      "entity:custom:statistical analysis->resume-1",
+      {
+        "from": "entity:custom:statistical analysis",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:statistical analysis",
+      {}
+    ],
+    [
+      "entity:custom:analytical methods->resume-1",
+      {
+        "from": "entity:custom:analytical methods",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:analytical methods",
+      {}
+    ],
+    [
+      "entity:custom:machine learning algorithms->resume-1",
+      {
+        "from": "entity:custom:machine learning algorithms",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:machine learning algorithms",
+      {}
+    ],
+    [
+      "entity:custom:neural networks->resume-1",
+      {
+        "from": "entity:custom:neural networks",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:neural networks",
+      {}
+    ],
+    [
+      "entity:custom:advanced analytics->resume-1",
+      {
+        "from": "entity:custom:advanced analytics",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:advanced analytics",
+      {}
+    ],
+    [
+      "entity:custom:predictive models->resume-1",
+      {
+        "from": "entity:custom:predictive models",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:predictive models",
+      {}
+    ],
+    [
+      "entity:custom:data science->resume-1",
+      {
+        "from": "entity:custom:data science",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:data science",
+      {}
+    ],
+    [
+      "entity:custom:natural language processing->resume-1",
+      {
+        "from": "entity:custom:natural language processing",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:natural language processing",
+      {}
+    ],
+    [
+      "entity:custom:data manipulation->resume-1",
+      {
+        "from": "entity:custom:data manipulation",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:data manipulation",
+      {}
+    ],
+    [
+      "entity:custom:data visualization->resume-1",
+      {
+        "from": "entity:custom:data visualization",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:data visualization",
+      {}
+    ],
+    [
+      "entity:custom:natural language tool kit->resume-1",
+      {
+        "from": "entity:custom:natural language tool kit",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:natural language tool kit",
+      {}
+    ],
+    [
+      "entity:custom:apache spark->resume-1",
+      {
+        "from": "entity:custom:apache spark",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:apache spark",
+      {}
+    ],
+    [
+      "entity:custom:apache kafka->resume-1",
+      {
+        "from": "entity:custom:apache kafka",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:apache kafka",
+      {}
+    ],
+    [
+      "entity:custom:database management systems->resume-1",
+      {
+        "from": "entity:custom:database management systems",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:database management systems",
+      {}
+    ],
+    [
+      "entity:custom:visual studio->resume-1",
+      {
+        "from": "entity:custom:visual studio",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:visual studio",
+      {}
+    ],
+    [
+      "entity:custom:red hat network satellite->resume-1",
+      {
+        "from": "entity:custom:red hat network satellite",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:red hat network satellite",
+      {}
+    ],
+    [
+      "entity:custom:version control->resume-1",
+      {
+        "from": "entity:custom:version control",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:version control",
+      {}
+    ],
+    [
+      "entity:custom:getting started->resume-1",
+      {
+        "from": "entity:custom:getting started",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:getting started",
+      {}
+    ],
+    [
+      "entity:custom:machine learning specialization->resume-1",
+      {
+        "from": "entity:custom:machine learning specialization",
+        "to": "resume-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:machine learning specialization",
+      {}
+    ],
+    [
+      "entity:bert->resume-2",
+      {
+        "from": "entity:bert",
+        "to": "resume-2",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:bert",
+      {}
+    ],
+    [
+      "entity:bert->resume-3",
+      {
+        "from": "entity:bert",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:mistral->resume-2",
+      {
+        "from": "entity:mistral",
+        "to": "resume-2",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:mistral",
+      {}
+    ],
+    [
+      "entity:mistral->resume-3",
+      {
+        "from": "entity:mistral",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:mistral->medium-2",
+      {
+        "from": "entity:mistral",
+        "to": "medium-2",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:mistral->medium-3",
+      {
+        "from": "entity:mistral",
+        "to": "medium-3",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:mistral->twitter-0",
+      {
+        "from": "entity:mistral",
+        "to": "twitter-0",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:embeddings->resume-2",
+      {
+        "from": "entity:embeddings",
+        "to": "resume-2",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:embeddings",
+      {}
+    ],
+    [
+      "entity:embeddings->resume-3",
+      {
+        "from": "entity:embeddings",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:embeddings->medium-0",
+      {
+        "from": "entity:embeddings",
+        "to": "medium-0",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:embeddings->medium-1",
+      {
+        "from": "entity:embeddings",
+        "to": "medium-1",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:embeddings->twitter-1",
+      {
+        "from": "entity:embeddings",
+        "to": "twitter-1",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:embeddings->twitter-2",
+      {
+        "from": "entity:embeddings",
+        "to": "twitter-2",
+        "type": "mentioned_in",
+        "weight": 6
+      }
+    ],
+    [
+      "entity:precision->resume-2",
+      {
+        "from": "entity:precision",
+        "to": "resume-2",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:precision",
+      {}
+    ],
+    [
+      "entity:precision->resume-3",
+      {
+        "from": "entity:precision",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:community dreams foundation                                                                       remote->resume-2",
+      {
+        "from": "entity:custom:community dreams foundation                                                                       remote",
+        "to": "resume-2",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:community dreams foundation                                                                       remote",
+      {}
+    ],
+    [
+      "entity:custom:community dreams foundation                                                                       remote->resume-3",
+      {
+        "from": "entity:custom:community dreams foundation                                                                       remote",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:machine learning engineer                                                                          jul->resume-2",
+      {
+        "from": "entity:custom:machine learning engineer                                                                          jul",
+        "to": "resume-2",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:machine learning engineer                                                                          jul",
+      {}
+    ],
+    [
+      "entity:custom:machine learning engineer                                                                          jul->resume-3",
+      {
+        "from": "entity:custom:machine learning engineer                                                                          jul",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:information systems->resume-3",
+      {
+        "from": "entity:custom:information systems",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:information systems",
+      {}
+    ],
+    [
+      "entity:custom:information systems->resume-4",
+      {
+        "from": "entity:custom:information systems",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:management consultants pvt->resume-3",
+      {
+        "from": "entity:custom:management consultants pvt",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:management consultants pvt",
+      {}
+    ],
+    [
+      "entity:custom:management consultants pvt->resume-4",
+      {
+        "from": "entity:custom:management consultants pvt",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:ltd                                       bengaluru->resume-3",
+      {
+        "from": "entity:custom:ltd                                       bengaluru",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:ltd                                       bengaluru",
+      {}
+    ],
+    [
+      "entity:custom:ltd                                       bengaluru->resume-4",
+      {
+        "from": "entity:custom:ltd                                       bengaluru",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:india \r\ndata engineer->resume-3",
+      {
+        "from": "entity:custom:india \r\ndata engineer",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:india \r\ndata engineer",
+      {}
+    ],
+    [
+      "entity:custom:india \r\ndata engineer->resume-4",
+      {
+        "from": "entity:custom:india \r\ndata engineer",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:associate software engineer->resume-3",
+      {
+        "from": "entity:custom:associate software engineer",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:associate software engineer",
+      {}
+    ],
+    [
+      "entity:custom:associate software engineer->resume-4",
+      {
+        "from": "entity:custom:associate software engineer",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:shell corporation->resume-3",
+      {
+        "from": "entity:custom:shell corporation",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:shell corporation",
+      {}
+    ],
+    [
+      "entity:custom:shell corporation->resume-4",
+      {
+        "from": "entity:custom:shell corporation",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:kafka connect->resume-3",
+      {
+        "from": "entity:custom:kafka connect",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:kafka connect",
+      {}
+    ],
+    [
+      "entity:custom:kafka connect->resume-4",
+      {
+        "from": "entity:custom:kafka connect",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:optimized databricks->resume-3",
+      {
+        "from": "entity:custom:optimized databricks",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:optimized databricks",
+      {}
+    ],
+    [
+      "entity:custom:optimized databricks->resume-4",
+      {
+        "from": "entity:custom:optimized databricks",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:awarded best employee->resume-3",
+      {
+        "from": "entity:custom:awarded best employee",
+        "to": "resume-3",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:awarded best employee",
+      {}
+    ],
+    [
+      "entity:custom:awarded best employee->resume-4",
+      {
+        "from": "entity:custom:awarded best employee",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:accuracy->resume-4",
+      {
+        "from": "entity:accuracy",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 8
+      }
+    ],
+    [
+      "entity:accuracy",
+      {}
+    ],
+    [
+      "entity:accuracy->resume-5",
+      {
+        "from": "entity:accuracy",
+        "to": "resume-5",
+        "type": "mentioned_in",
+        "weight": 8
+      }
+    ],
+    [
+      "entity:accuracy->resume-6",
+      {
+        "from": "entity:accuracy",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 8
+      }
+    ],
+    [
+      "entity:accuracy->medium-0",
+      {
+        "from": "entity:accuracy",
+        "to": "medium-0",
+        "type": "mentioned_in",
+        "weight": 8
+      }
+    ],
+    [
+      "entity:accuracy->medium-5",
+      {
+        "from": "entity:accuracy",
+        "to": "medium-5",
+        "type": "mentioned_in",
+        "weight": 8
+      }
+    ],
+    [
+      "entity:accuracy->twitter-0",
+      {
+        "from": "entity:accuracy",
+        "to": "twitter-0",
+        "type": "mentioned_in",
+        "weight": 8
+      }
+    ],
+    [
+      "entity:accuracy->twitter-2",
+      {
+        "from": "entity:accuracy",
+        "to": "twitter-2",
+        "type": "mentioned_in",
+        "weight": 8
+      }
+    ],
+    [
+      "entity:latency->resume-4",
+      {
+        "from": "entity:latency",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 8
+      }
+    ],
+    [
+      "entity:latency",
+      {}
+    ],
+    [
+      "entity:latency->resume-5",
+      {
+        "from": "entity:latency",
+        "to": "resume-5",
+        "type": "mentioned_in",
+        "weight": 8
+      }
+    ],
+    [
+      "entity:latency->resume-6",
+      {
+        "from": "entity:latency",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 8
+      }
+    ],
+    [
+      "entity:latency->medium-2",
+      {
+        "from": "entity:latency",
+        "to": "medium-2",
+        "type": "mentioned_in",
+        "weight": 8
+      }
+    ],
+    [
+      "entity:latency->twitter-0",
+      {
+        "from": "entity:latency",
+        "to": "twitter-0",
+        "type": "mentioned_in",
+        "weight": 8
+      }
+    ],
+    [
+      "entity:custom:imbuedesk pvt->resume-4",
+      {
+        "from": "entity:custom:imbuedesk pvt",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:imbuedesk pvt",
+      {}
+    ],
+    [
+      "entity:custom:imbuedesk pvt->resume-5",
+      {
+        "from": "entity:custom:imbuedesk pvt",
+        "to": "resume-5",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:ltd                                                                               hyderabad->resume-4",
+      {
+        "from": "entity:custom:ltd                                                                               hyderabad",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:ltd                                                                               hyderabad",
+      {}
+    ],
+    [
+      "entity:custom:ltd                                                                               hyderabad->resume-5",
+      {
+        "from": "entity:custom:ltd                                                                               hyderabad",
+        "to": "resume-5",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:india \r\nmachine learning engineer                                                                          may->resume-4",
+      {
+        "from": "entity:custom:india \r\nmachine learning engineer                                                                          may",
+        "to": "resume-4",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:india \r\nmachine learning engineer                                                                          may",
+      {}
+    ],
+    [
+      "entity:custom:india \r\nmachine learning engineer                                                                          may->resume-5",
+      {
+        "from": "entity:custom:india \r\nmachine learning engineer                                                                          may",
+        "to": "resume-5",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:gpt->resume-5",
+      {
+        "from": "entity:gpt",
+        "to": "resume-5",
+        "type": "mentioned_in",
+        "weight": 5
+      }
+    ],
+    [
+      "entity:gpt",
+      {}
+    ],
+    [
+      "entity:gpt->resume-6",
+      {
+        "from": "entity:gpt",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 5
+      }
+    ],
+    [
+      "entity:gpt->medium-1",
+      {
+        "from": "entity:gpt",
+        "to": "medium-1",
+        "type": "mentioned_in",
+        "weight": 5
+      }
+    ],
+    [
+      "entity:custom:career roadmap generator->resume-5",
+      {
+        "from": "entity:custom:career roadmap generator",
+        "to": "resume-5",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:career roadmap generator",
+      {}
+    ],
+    [
+      "entity:custom:career roadmap generator->resume-6",
+      {
+        "from": "entity:custom:career roadmap generator",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:huggingface\r\nintegrated->resume-5",
+      {
+        "from": "entity:custom:huggingface\r\nintegrated",
+        "to": "resume-5",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:huggingface\r\nintegrated",
+      {}
+    ],
+    [
+      "entity:custom:huggingface\r\nintegrated->resume-6",
+      {
+        "from": "entity:custom:huggingface\r\nintegrated",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:large language model->resume-6",
+      {
+        "from": "entity:custom:large language model",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:large language model",
+      {}
+    ],
+    [
+      "entity:custom:python\r\ndeveloped->resume-6",
+      {
+        "from": "entity:custom:python\r\ndeveloped",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:python\r\ndeveloped",
+      {}
+    ],
+    [
+      "entity:custom:stevens institute->resume-6",
+      {
+        "from": "entity:custom:stevens institute",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:stevens institute",
+      {}
+    ],
+    [
+      "entity:custom:stevens institute->twitter-1",
+      {
+        "from": "entity:custom:stevens institute",
+        "to": "twitter-1",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:technology                                                                   hoboken->resume-6",
+      {
+        "from": "entity:custom:technology                                                                   hoboken",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:technology                                                                   hoboken",
+      {}
+    ],
+    [
+      "entity:custom:machine learning->resume-6",
+      {
+        "from": "entity:custom:machine learning",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:machine learning",
+      {}
+    ],
+    [
+      "entity:custom:machine learning->twitter-1",
+      {
+        "from": "entity:custom:machine learning",
+        "to": "twitter-1",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:sreenidhi institute->resume-6",
+      {
+        "from": "entity:custom:sreenidhi institute",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:sreenidhi institute",
+      {}
+    ],
+    [
+      "entity:custom:technology                                                     hyderabad->resume-6",
+      {
+        "from": "entity:custom:technology                                                     hyderabad",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:technology                                                     hyderabad",
+      {}
+    ],
+    [
+      "entity:custom:india\r\nbachelor->resume-6",
+      {
+        "from": "entity:custom:india\r\nbachelor",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:india\r\nbachelor",
+      {}
+    ],
+    [
+      "entity:custom:information technology                                                    aug->resume-6",
+      {
+        "from": "entity:custom:information technology                                                    aug",
+        "to": "resume-6",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:information technology                                                    aug",
+      {}
+    ],
+    [
+      "entity:custom:building effective->medium-0",
+      {
+        "from": "entity:custom:building effective",
+        "to": "medium-0",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:building effective",
+      {}
+    ],
+    [
+      "entity:custom:knowledge graphs\r\nauthor->medium-0",
+      {
+        "from": "entity:custom:knowledge graphs\r\nauthor",
+        "to": "medium-0",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:knowledge graphs\r\nauthor",
+      {}
+    ],
+    [
+      "entity:custom:sai chaitanya pachipulusu\r\ndate->medium-0",
+      {
+        "from": "entity:custom:sai chaitanya pachipulusu\r\ndate",
+        "to": "medium-0",
+        "type": "mentioned_in",
+        "weight": 4
+      }
+    ],
+    [
+      "entity:custom:sai chaitanya pachipulusu\r\ndate",
+      {}
+    ],
+    [
+      "entity:custom:sai chaitanya pachipulusu\r\ndate->medium-1",
+      {
+        "from": "entity:custom:sai chaitanya pachipulusu\r\ndate",
+        "to": "medium-1",
+        "type": "mentioned_in",
+        "weight": 4
+      }
+    ],
+    [
+      "entity:custom:sai chaitanya pachipulusu\r\ndate->medium-3",
+      {
+        "from": "entity:custom:sai chaitanya pachipulusu\r\ndate",
+        "to": "medium-3",
+        "type": "mentioned_in",
+        "weight": 4
+      }
+    ],
+    [
+      "entity:custom:sai chaitanya pachipulusu\r\ndate->medium-5",
+      {
+        "from": "entity:custom:sai chaitanya pachipulusu\r\ndate",
+        "to": "medium-5",
+        "type": "mentioned_in",
+        "weight": 4
+      }
+    ],
+    [
+      "entity:custom:augmented generation->medium-0",
+      {
+        "from": "entity:custom:augmented generation",
+        "to": "medium-0",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:augmented generation",
+      {}
+    ],
+    [
+      "entity:custom:knowledge graphs->medium-0",
+      {
+        "from": "entity:custom:knowledge graphs",
+        "to": "medium-0",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:knowledge graphs",
+      {}
+    ],
+    [
+      "entity:custom:the knowledge graph advantage->medium-0",
+      {
+        "from": "entity:custom:the knowledge graph advantage",
+        "to": "medium-0",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:the knowledge graph advantage",
+      {}
+    ],
+    [
+      "entity:custom:structural information->medium-0",
+      {
+        "from": "entity:custom:structural information",
+        "to": "medium-0",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:structural information",
+      {}
+    ],
+    [
+      "entity:custom:context preservation->medium-0",
+      {
+        "from": "entity:custom:context preservation",
+        "to": "medium-0",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:context preservation",
+      {}
+    ],
+    [
+      "entity:custom:implementation process->medium-0",
+      {
+        "from": "entity:custom:implementation process",
+        "to": "medium-0",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:implementation process",
+      {}
+    ],
+    [
+      "entity:nlp->medium-1",
+      {
+        "from": "entity:nlp",
+        "to": "medium-1",
+        "type": "mentioned_in",
+        "weight": 4
+      }
+    ],
+    [
+      "entity:nlp",
+      {}
+    ],
+    [
+      "entity:nlp->twitter-2",
+      {
+        "from": "entity:nlp",
+        "to": "twitter-2",
+        "type": "mentioned_in",
+        "weight": 4
+      }
+    ],
+    [
+      "entity:custom:graph construction complexity->medium-1",
+      {
+        "from": "entity:custom:graph construction complexity",
+        "to": "medium-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:graph construction complexity",
+      {}
+    ],
+    [
+      "entity:custom:query translation->medium-1",
+      {
+        "from": "entity:custom:query translation",
+        "to": "medium-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:query translation",
+      {}
+    ],
+    [
+      "entity:custom:future directions->medium-1",
+      {
+        "from": "entity:custom:future directions",
+        "to": "medium-1",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:future directions",
+      {}
+    ],
+    [
+      "entity:custom:future directions->medium-5",
+      {
+        "from": "entity:custom:future directions",
+        "to": "medium-5",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:how\r\nauthor->medium-1",
+      {
+        "from": "entity:custom:how\r\nauthor",
+        "to": "medium-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:how\r\nauthor",
+      {}
+    ],
+    [
+      "entity:cost->medium-2",
+      {
+        "from": "entity:cost",
+        "to": "medium-2",
+        "type": "mentioned_in",
+        "weight": 3
+      }
+    ],
+    [
+      "entity:cost",
+      {}
+    ],
+    [
+      "entity:cost->medium-6",
+      {
+        "from": "entity:cost",
+        "to": "medium-6",
+        "type": "mentioned_in",
+        "weight": 3
+      }
+    ],
+    [
+      "entity:cost->medium-7",
+      {
+        "from": "entity:cost",
+        "to": "medium-7",
+        "type": "mentioned_in",
+        "weight": 3
+      }
+    ],
+    [
+      "entity:custom:domain specificity->medium-2",
+      {
+        "from": "entity:custom:domain specificity",
+        "to": "medium-2",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:domain specificity",
+      {}
+    ],
+    [
+      "entity:custom:consistent style->medium-2",
+      {
+        "from": "entity:custom:consistent style",
+        "to": "medium-2",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:consistent style",
+      {}
+    ],
+    [
+      "entity:custom:data privacy->medium-2",
+      {
+        "from": "entity:custom:data privacy",
+        "to": "medium-2",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:data privacy",
+      {}
+    ],
+    [
+      "entity:custom:cost optimization->medium-2",
+      {
+        "from": "entity:custom:cost optimization",
+        "to": "medium-2",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:cost optimization",
+      {}
+    ],
+    [
+      "entity:custom:latency requirements->medium-2",
+      {
+        "from": "entity:custom:latency requirements",
+        "to": "medium-2",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:latency requirements",
+      {}
+    ],
+    [
+      "entity:custom:the fine->medium-2",
+      {
+        "from": "entity:custom:the fine",
+        "to": "medium-2",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:the fine",
+      {}
+    ],
+    [
+      "entity:custom:tuning process->medium-2",
+      {
+        "from": "entity:custom:tuning process",
+        "to": "medium-2",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:tuning process",
+      {}
+    ],
+    [
+      "entity:custom:data collection->medium-2",
+      {
+        "from": "entity:custom:data collection",
+        "to": "medium-2",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:data collection",
+      {}
+    ],
+    [
+      "entity:custom:data cleaning->medium-2",
+      {
+        "from": "entity:custom:data cleaning",
+        "to": "medium-2",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:data cleaning",
+      {}
+    ],
+    [
+      "entity:custom:model selection->medium-2",
+      {
+        "from": "entity:custom:model selection",
+        "to": "medium-2",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:model selection",
+      {}
+    ],
+    [
+      "entity:custom:efficient fine->medium-2",
+      {
+        "from": "entity:custom:efficient fine",
+        "to": "medium-2",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:efficient fine",
+      {}
+    ],
+    [
+      "entity:custom:common pitfalls->medium-3",
+      {
+        "from": "entity:custom:common pitfalls",
+        "to": "medium-3",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:common pitfalls",
+      {}
+    ],
+    [
+      "entity:custom:training examples->medium-3",
+      {
+        "from": "entity:custom:training examples",
+        "to": "medium-3",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:training examples",
+      {}
+    ],
+    [
+      "entity:custom:catastrophic forgetting->medium-3",
+      {
+        "from": "entity:custom:catastrophic forgetting",
+        "to": "medium-3",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:catastrophic forgetting",
+      {}
+    ],
+    [
+      "entity:custom:training data quality issues->medium-3",
+      {
+        "from": "entity:custom:training data quality issues",
+        "to": "medium-3",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:training data quality issues",
+      {}
+    ],
+    [
+      "entity:custom:inadequate evaluation->medium-3",
+      {
+        "from": "entity:custom:inadequate evaluation",
+        "to": "medium-3",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:inadequate evaluation",
+      {}
+    ],
+    [
+      "entity:custom:case study->medium-3",
+      {
+        "from": "entity:custom:case study",
+        "to": "medium-3",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:case study",
+      {}
+    ],
+    [
+      "entity:custom:case study->medium-7",
+      {
+        "from": "entity:custom:case study",
+        "to": "medium-7",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:customer service optimization->medium-3",
+      {
+        "from": "entity:custom:customer service optimization",
+        "to": "medium-3",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:customer service optimization",
+      {}
+    ],
+    [
+      "entity:custom:practical prompt engineering techniques->medium-3",
+      {
+        "from": "entity:custom:practical prompt engineering techniques",
+        "to": "medium-3",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:practical prompt engineering techniques",
+      {}
+    ],
+    [
+      "entity:custom:production systems\r\nauthor->medium-3",
+      {
+        "from": "entity:custom:production systems\r\nauthor",
+        "to": "medium-3",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:production systems\r\nauthor",
+      {}
+    ],
+    [
+      "entity:custom:the evolution->medium-4",
+      {
+        "from": "entity:custom:the evolution",
+        "to": "medium-4",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:the evolution",
+      {}
+    ],
+    [
+      "entity:custom:core techniques->medium-4",
+      {
+        "from": "entity:custom:core techniques",
+        "to": "medium-4",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:core techniques",
+      {}
+    ],
+    [
+      "entity:custom:ready prompting->medium-4",
+      {
+        "from": "entity:custom:ready prompting",
+        "to": "medium-4",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:ready prompting",
+      {}
+    ],
+    [
+      "entity:custom:structured formatting->medium-4",
+      {
+        "from": "entity:custom:structured formatting",
+        "to": "medium-4",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:structured formatting",
+      {}
+    ],
+    [
+      "entity:custom:context management->medium-4",
+      {
+        "from": "entity:custom:context management",
+        "to": "medium-4",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:context management",
+      {}
+    ],
+    [
+      "entity:custom:instruction layering->medium-4",
+      {
+        "from": "entity:custom:instruction layering",
+        "to": "medium-4",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:instruction layering",
+      {}
+    ],
+    [
+      "entity:custom:dynamic prompt generation->medium-4",
+      {
+        "from": "entity:custom:dynamic prompt generation",
+        "to": "medium-4",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:dynamic prompt generation",
+      {}
+    ],
+    [
+      "entity:custom:error handling->medium-4",
+      {
+        "from": "entity:custom:error handling",
+        "to": "medium-4",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:error handling",
+      {}
+    ],
+    [
+      "entity:custom:error handling->medium-5",
+      {
+        "from": "entity:custom:error handling",
+        "to": "medium-5",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:measuring prompt performance->medium-5",
+      {
+        "from": "entity:custom:measuring prompt performance",
+        "to": "medium-5",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:measuring prompt performance",
+      {}
+    ],
+    [
+      "entity:custom:implementation example->medium-5",
+      {
+        "from": "entity:custom:implementation example",
+        "to": "medium-5",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:implementation example",
+      {}
+    ],
+    [
+      "entity:custom:building scalable->medium-5",
+      {
+        "from": "entity:custom:building scalable",
+        "to": "medium-5",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:building scalable",
+      {}
+    ],
+    [
+      "entity:custom:data pipelines->medium-5",
+      {
+        "from": "entity:custom:data pipelines",
+        "to": "medium-5",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:data pipelines",
+      {}
+    ],
+    [
+      "entity:custom:production\r\nauthor->medium-5",
+      {
+        "from": "entity:custom:production\r\nauthor",
+        "to": "medium-5",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:production\r\nauthor",
+      {}
+    ],
+    [
+      "entity:custom:the data pipeline challenge->medium-6",
+      {
+        "from": "entity:custom:the data pipeline challenge",
+        "to": "medium-6",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:the data pipeline challenge",
+      {}
+    ],
+    [
+      "entity:custom:core components->medium-6",
+      {
+        "from": "entity:custom:core components",
+        "to": "medium-6",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:core components",
+      {}
+    ],
+    [
+      "entity:custom:data infrastructure->medium-6",
+      {
+        "from": "entity:custom:data infrastructure",
+        "to": "medium-6",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:data infrastructure",
+      {}
+    ],
+    [
+      "entity:custom:ingestion layer->medium-6",
+      {
+        "from": "entity:custom:ingestion layer",
+        "to": "medium-6",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:ingestion layer",
+      {}
+    ],
+    [
+      "entity:custom:processing layer->medium-6",
+      {
+        "from": "entity:custom:processing layer",
+        "to": "medium-6",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:processing layer",
+      {}
+    ],
+    [
+      "entity:custom:storage layer->medium-6",
+      {
+        "from": "entity:custom:storage layer",
+        "to": "medium-6",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:storage layer",
+      {}
+    ],
+    [
+      "entity:custom:storage layer->medium-7",
+      {
+        "from": "entity:custom:storage layer",
+        "to": "medium-7",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:throughput->medium-7",
+      {
+        "from": "entity:throughput",
+        "to": "medium-7",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:throughput",
+      {}
+    ],
+    [
+      "entity:throughput->twitter-2",
+      {
+        "from": "entity:throughput",
+        "to": "twitter-2",
+        "type": "mentioned_in",
+        "weight": 2
+      }
+    ],
+    [
+      "entity:custom:operational concerns->medium-7",
+      {
+        "from": "entity:custom:operational concerns",
+        "to": "medium-7",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:operational concerns",
+      {}
+    ],
+    [
+      "entity:custom:scaling embedding generation\r\nwhen->medium-7",
+      {
+        "from": "entity:custom:scaling embedding generation\r\nwhen",
+        "to": "medium-7",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:scaling embedding generation\r\nwhen",
+      {}
+    ],
+    [
+      "entity:custom:design principles->medium-7",
+      {
+        "from": "entity:custom:design principles",
+        "to": "medium-7",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:design principles",
+      {}
+    ],
+    [
+      "entity:custom:data systems->medium-7",
+      {
+        "from": "entity:custom:data systems",
+        "to": "medium-7",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:data systems",
+      {}
+    ],
+    [
+      "entity:custom:knowledge graph->twitter-0",
+      {
+        "from": "entity:custom:knowledge graph",
+        "to": "twitter-0",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:knowledge graph",
+      {}
+    ],
+    [
+      "entity:custom:community dreams foundation->twitter-0",
+      {
+        "from": "entity:custom:community dreams foundation",
+        "to": "twitter-0",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:community dreams foundation",
+      {}
+    ],
+    [
+      "entity:custom:stevens tech->twitter-1",
+      {
+        "from": "entity:custom:stevens tech",
+        "to": "twitter-1",
+        "type": "mentioned_in",
+        "weight": 1
+      }
+    ],
+    [
+      "entity:custom:stevens tech",
+      {}
+    ],
+    [
+      "resume-0->resume-1",
+      {
+        "from": "resume-0",
+        "to": "resume-1",
+        "type": "next_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "resume-0",
+      {}
+    ],
+    [
+      "resume-1->resume-0",
+      {
+        "from": "resume-1",
+        "to": "resume-0",
+        "type": "prev_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "resume-1",
+      {}
+    ],
+    [
+      "resume-1->resume-2",
+      {
+        "from": "resume-1",
+        "to": "resume-2",
+        "type": "next_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "resume-2->resume-1",
+      {
+        "from": "resume-2",
+        "to": "resume-1",
+        "type": "prev_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "resume-2",
+      {}
+    ],
+    [
+      "resume-2->resume-3",
+      {
+        "from": "resume-2",
+        "to": "resume-3",
+        "type": "next_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "resume-3->resume-2",
+      {
+        "from": "resume-3",
+        "to": "resume-2",
+        "type": "prev_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "resume-3",
+      {}
+    ],
+    [
+      "resume-3->resume-4",
+      {
+        "from": "resume-3",
+        "to": "resume-4",
+        "type": "next_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "resume-4->resume-3",
+      {
+        "from": "resume-4",
+        "to": "resume-3",
+        "type": "prev_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "resume-4",
+      {}
+    ],
+    [
+      "resume-4->resume-5",
+      {
+        "from": "resume-4",
+        "to": "resume-5",
+        "type": "next_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "resume-5->resume-4",
+      {
+        "from": "resume-5",
+        "to": "resume-4",
+        "type": "prev_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "resume-5",
+      {}
+    ],
+    [
+      "resume-5->resume-6",
+      {
+        "from": "resume-5",
+        "to": "resume-6",
+        "type": "next_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "resume-6->resume-5",
+      {
+        "from": "resume-6",
+        "to": "resume-5",
+        "type": "prev_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "resume-6",
+      {}
+    ],
+    [
+      "medium-0->medium-1",
+      {
+        "from": "medium-0",
+        "to": "medium-1",
+        "type": "next_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "medium-0",
+      {}
+    ],
+    [
+      "medium-1->medium-0",
+      {
+        "from": "medium-1",
+        "to": "medium-0",
+        "type": "prev_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "medium-1",
+      {}
+    ],
+    [
+      "medium-1->medium-2",
+      {
+        "from": "medium-1",
+        "to": "medium-2",
+        "type": "next_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "medium-2->medium-1",
+      {
+        "from": "medium-2",
+        "to": "medium-1",
+        "type": "prev_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "medium-2",
+      {}
+    ],
+    [
+      "medium-2->medium-3",
+      {
+        "from": "medium-2",
+        "to": "medium-3",
+        "type": "next_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "medium-3->medium-2",
+      {
+        "from": "medium-3",
+        "to": "medium-2",
+        "type": "prev_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "medium-3",
+      {}
+    ],
+    [
+      "medium-3->medium-4",
+      {
+        "from": "medium-3",
+        "to": "medium-4",
+        "type": "next_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "medium-4->medium-3",
+      {
+        "from": "medium-4",
+        "to": "medium-3",
+        "type": "prev_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "medium-4",
+      {}
+    ],
+    [
+      "medium-4->medium-5",
+      {
+        "from": "medium-4",
+        "to": "medium-5",
+        "type": "next_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "medium-5->medium-4",
+      {
+        "from": "medium-5",
+        "to": "medium-4",
+        "type": "prev_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "medium-5",
+      {}
+    ],
+    [
+      "medium-5->medium-6",
+      {
+        "from": "medium-5",
+        "to": "medium-6",
+        "type": "next_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "medium-6->medium-5",
+      {
+        "from": "medium-6",
+        "to": "medium-5",
+        "type": "prev_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "medium-6",
+      {}
+    ],
+    [
+      "medium-6->medium-7",
+      {
+        "from": "medium-6",
+        "to": "medium-7",
+        "type": "next_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "medium-7->medium-6",
+      {
+        "from": "medium-7",
+        "to": "medium-6",
+        "type": "prev_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "medium-7",
+      {}
+    ],
+    [
+      "twitter-0->twitter-1",
+      {
+        "from": "twitter-0",
+        "to": "twitter-1",
+        "type": "next_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "twitter-0",
+      {}
+    ],
+    [
+      "twitter-1->twitter-0",
+      {
+        "from": "twitter-1",
+        "to": "twitter-0",
+        "type": "prev_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "twitter-1",
+      {}
+    ],
+    [
+      "twitter-1->twitter-2",
+      {
+        "from": "twitter-1",
+        "to": "twitter-2",
+        "type": "next_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "twitter-2->twitter-1",
+      {
+        "from": "twitter-2",
+        "to": "twitter-1",
+        "type": "prev_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "twitter-2",
+      {}
+    ],
+    [
+      "twitter-2->twitter-3",
+      {
+        "from": "twitter-2",
+        "to": "twitter-3",
+        "type": "next_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "twitter-3->twitter-2",
+      {
+        "from": "twitter-3",
+        "to": "twitter-2",
+        "type": "prev_chunk",
+        "weight": 0.8
+      }
+    ],
+    [
+      "twitter-3",
+      {}
+    ]
+  ],
+  "sources": [
+    {
+      "id": "resume-0",
+      "content": "Sai Chaitanya Pachipulusu\r\n\nlinkedin.com/in/psaichaitanya | github.com/chaitanyasaip | pachipulusu.vercel.app\r\n\nEmail : siai.chaitanyap@gmail.com\r\nMobile : +1 (551) 344-5967\r\n\nMachine Learning Engineer with 4+ years of experience delivering scalable AI solutions, including LLMs, RAG systems, and data pipelines, across diverse industries. Proven track record of reducing costs, improving efficiency, and driving innovation through cutting-edge ML and data engineering techniques.\r\n\nSKILLS & ACCOMPLISHMENTS\r",
+      "metadata": {
+        "sourceType": "resume",
+        "chunkIndex": 0,
+        "sourceId": "resume"
+      }
+    },
+    {
+      "id": "resume-1",
+      "content": "SKILLS & ACCOMPLISHMENTS\r\n\n• Programming Languages: Python, Java, C++, R, SQL\r\n• Technical: Statistical Analysis, Probability and Inference, Analytical Methods, Machine Learning Algorithms, MLOps, Neural Networks (CNN, RNN, LSTM), GANs, VAEs, Autoencoders, Transformers, LLM, NER, knowledge graphs, Hive, Scala, GCP, Clustering, Regression, Statistics, Mathematics, Selenium, BeautifulSoup, Linux/UNIX, Advanced Analytics, Predictive Models, Data Science, Natural Language Processing, Data Manipulation, Data Visualization, Critical thinking, GenAI solutions, Prompt engineering, Optimization, Agile, Data analysis, Data pipelines, Data integration, data classification, data governance, Data lakes\r\n• Frameworks/Libraries: PyTorch, TensorFlow, Snowflake, Streamlit, Keras, Scikit-learn, XGBoost, PySpark, NumPy, Pandas, spaCy, Natural Language Tool Kit, Apache Spark, Matplotlib, Hadoop, Seaborn, Apache Kafka, LightGBM, Plotly, JAX\r\n• Generative AI: LLMs, RAG Pipelines, LangChain, Llamaindex, Weaviate, Pinecone, ChromaDB, Fine-tuning (LoRA/PEFT), FAISS\r\n• Database Management Systems: Relational-Databases (MySQL, PostgreSQL), MariaDB, NoSQL, SparkSQL, SQL\r\n• Tools/Platforms: AWS (S3, EC2, Lambda, SageMaker, Bedrock), Databricks, Tableau, PowerBI, Visual Studio, WEKA, phpMyAdmin, Red Hat Network Satellite, Excel, Version Control (Git), CI/CD (Docker, Kubernetes), A/B testing, Terraform, BigQuery\r\n• Certifications: Getting Started with PowerBI (Coursera), Machine Learning Specialization (Coursera), Python for Everybody (Coursera), SPSS certified professional in Data mining and Warehousing\r\n\nEXPERIENCE\r",
+      "metadata": {
+        "sourceType": "resume",
+        "chunkIndex": 1,
+        "sourceId": "resume"
+      }
+    },
+    {
+      "id": "resume-2",
+      "content": "EXPERIENCE\r\n\n• Community Dreams Foundation                                                                       Remote, USA \r\nMachine Learning Engineer                                                                          Jul 2024 - Present\r\n  • Architected an HR tool using BERT, RoBERTa, and Sentence-BERT embeddings to match resumes with job descriptions, cutting manual screening by 90% from 10 hours to 1 hour per job and speeding up the hiring by 40% through context-aware ranking\r\n  • Built an end-to-end cloud-native pipeline with Python, FastAPI, and Kubeflow on Kubernetes for automated interview scheduling, achieving 92% candidate selection precision measured in pilot with 50 companies\r\n  • Automated rejection emails with sentiment-aware templates with VADER score above 0.6, handling 200+ weekly communications and reducing admin work by 90% from 15 hours/week to 1.5 hours/week while ensuring empathetic, bias-free communication\r\n  • Developed a fine-tuned BERT model and Flask microservice to automate personalized rejection communications, processing 200+ weekly applicants with 94% positive feedback rate while reducing HR workload by 90% through contextual response generation\r\n  • Designed a RAG chatbot with Mistral, PyTorch on AWS SageMaker, achieving 90% response relevance and reducing ticket escalations by 25%, saving an estimated 200+ hours annually for the support team\r",
+      "metadata": {
+        "sourceType": "resume",
+        "chunkIndex": 2,
+        "sourceId": "resume"
+      }
+    },
+    {
+      "id": "resume-3",
+      "content": "• Community Dreams Foundation                                                                       Remote, USA \r\nMachine Learning Engineer                                                                          Jul 2024 - Present\r\n  • Architected an HR tool using BERT, RoBERTa, and Sentence-BERT embeddings to match resumes with job descriptions, cutting manual screening by 90% from 10 hours to 1 hour per job and speeding up the hiring by 40% through context-aware ranking\r\n  • Built an end-to-end cloud-native pipeline with Python, FastAPI, and Kubeflow on Kubernetes for automated interview scheduling, achieving 92% candidate selection precision measured in pilot with 50 companies\r\n  • Automated rejection emails with sentiment-aware templates with VADER score above 0.6, handling 200+ weekly communications and reducing admin work by 90% from 15 hours/week to 1.5 hours/week while ensuring empathetic, bias-free communication\r\n  • Developed a fine-tuned BERT model and Flask microservice to automate personalized rejection communications, processing 200+ weekly applicants with 94% positive feedback rate while reducing HR workload by 90% through contextual response generation\r\n  • Designed a RAG chatbot with Mistral, PyTorch on AWS SageMaker, achieving 90% response relevance and reducing ticket escalations by 25%, saving an estimated 200+ hours annually for the support team\r\n\n• CGI Information Systems and Management Consultants Pvt. Ltd                                       Bengaluru, India \r\nData Engineer/ Associate Software Engineer (Client: Shell Corporation)                             Sep 2020 - Jun 2022\r\n  • Developed a real-time ingest layer using Kafka Connect to capture 8 sensor data streams (400 events/second) from factory equipment, reducing data availability lag from overnight batch to less than 5 minutes for maintenance teams\r\n  • Wrote and maintained 15+ Python ETL scripts to process daily Shell refinery data files (CSV, JSON) into a centralized SQL data warehouse, enabling dashboard KPIs previously unavailable to operating teams\r\n  • Led migration of 52 legacy servers to AWS EC2 (t3.xlarge instances) using Terraform, reducing monthly costs by $18k and ensuring 99.9% uptime over 6-month period\r\n  • Optimized Databricks medallion architecture with schema validation and incremental processing, reducing data pipeline failures from 12 to 3 (75% decrease) per week and cutting recovery time from 4 hours to 45 minutes for Shell's refinery operations\r\n  • Awarded Best Employee for Q4 2021 for exceptional contributions to project efficiency and collaboration with interdisciplinary teams, leading 30% of the overall data migration effort\r",
+      "metadata": {
+        "sourceType": "resume",
+        "chunkIndex": 3,
+        "sourceId": "resume"
+      }
+    },
+    {
+      "id": "resume-4",
+      "content": "• CGI Information Systems and Management Consultants Pvt. Ltd                                       Bengaluru, India \r\nData Engineer/ Associate Software Engineer (Client: Shell Corporation)                             Sep 2020 - Jun 2022\r\n  • Developed a real-time ingest layer using Kafka Connect to capture 8 sensor data streams (400 events/second) from factory equipment, reducing data availability lag from overnight batch to less than 5 minutes for maintenance teams\r\n  • Wrote and maintained 15+ Python ETL scripts to process daily Shell refinery data files (CSV, JSON) into a centralized SQL data warehouse, enabling dashboard KPIs previously unavailable to operating teams\r\n  • Led migration of 52 legacy servers to AWS EC2 (t3.xlarge instances) using Terraform, reducing monthly costs by $18k and ensuring 99.9% uptime over 6-month period\r\n  • Optimized Databricks medallion architecture with schema validation and incremental processing, reducing data pipeline failures from 12 to 3 (75% decrease) per week and cutting recovery time from 4 hours to 45 minutes for Shell's refinery operations\r\n  • Awarded Best Employee for Q4 2021 for exceptional contributions to project efficiency and collaboration with interdisciplinary teams, leading 30% of the overall data migration effort\r\n\n• Imbuedesk Pvt. Ltd                                                                               Hyderabad, India \r\nMachine Learning Engineer                                                                          May 2018 - Aug 2020\r\n  • Achieved 97% accuracy on FER2013 dataset by developing facial expression recognition system using OpenCV and TensorFlow\r\n  • Processed 50K vehicle plates daily by designing an image processing pipeline with Tesseract OCR orchestrated with Kubernetes\r\n  • Reduced equipment downtime by 28% through implementation of predictive maintenance dashboards with AWS Beanstalk\r\n  • Decreased image processing latency by 66% by building a Kafka-based pipeline handling 35MB/hour with a 3-node consumer topology\r\n  • Implemented back-pressure handling for peak traffic periods when processing volume increased by 300%\r",
+      "metadata": {
+        "sourceType": "resume",
+        "chunkIndex": 4,
+        "sourceId": "resume"
+      }
+    },
+    {
+      "id": "resume-5",
+      "content": "• Imbuedesk Pvt. Ltd                                                                               Hyderabad, India \r\nMachine Learning Engineer                                                                          May 2018 - Aug 2020\r\n  • Achieved 97% accuracy on FER2013 dataset by developing facial expression recognition system using OpenCV and TensorFlow\r\n  • Processed 50K vehicle plates daily by designing an image processing pipeline with Tesseract OCR orchestrated with Kubernetes\r\n  • Reduced equipment downtime by 28% through implementation of predictive maintenance dashboards with AWS Beanstalk\r\n  • Decreased image processing latency by 66% by building a Kafka-based pipeline handling 35MB/hour with a 3-node consumer topology\r\n  • Implemented back-pressure handling for peak traffic periods when processing volume increased by 300%\r\n\nTECHNICAL PROJECTS\r\n\n• Career Roadmap Generator | Generative AI, RAG System, Streamlit, ChromaDB | Huggingface\r\nIntegrated GPT 3.5, GPT-4o models with ChromaDB for context-aware recommendations to the job description achieving 0.87 hit@5 score on an evaluation set of 200 anonymized job transitions from tech professionals. Async implementation reduced API latency from 12 to 4 seconds for 10+ concurrent users\r",
+      "metadata": {
+        "sourceType": "resume",
+        "chunkIndex": 5,
+        "sourceId": "resume"
+      }
+    },
+    {
+      "id": "resume-6",
+      "content": "• Career Roadmap Generator | Generative AI, RAG System, Streamlit, ChromaDB | Huggingface\r\nIntegrated GPT 3.5, GPT-4o models with ChromaDB for context-aware recommendations to the job description achieving 0.87 hit@5 score on an evaluation set of 200 anonymized job transitions from tech professionals. Async implementation reduced API latency from 12 to 4 seconds for 10+ concurrent users\r\n\n• SaaS Chatbot | Large Language Model, Llama-2-7B, Langchain, Streamlit, Python\r\nDeveloped support chatbot by fine-tuning Llama-2-7B using parameter-efficient PEFT/LoRA techniques on 5k support conversations. Deployed on a single A10 GPU achieved 84% accuracy while reducing inference costs by 65% compared to hosted API solutions\r\n\nEDUCATION\r\n\n• Stevens Institute of Technology                                                                   Hoboken, NJ\r\nMaster of Science in Machine Learning; CGPA: 3.9                                                   Sep 2022 - May 2024\r\n\n• Sreenidhi Institute of Science and Technology                                                     Hyderabad, India\r\nBachelor of Technology in Information Technology                                                    Aug 2016 - May 2020 ",
+      "metadata": {
+        "sourceType": "resume",
+        "chunkIndex": 6,
+        "sourceId": "resume"
+      }
+    },
+    {
+      "id": "medium-0",
+      "content": "Title: Building Effective RAG Systems with Knowledge Graphs\r\nAuthor: Sai Chaitanya Pachipulusu\r\nDate: April 5, 2024\r\n\nRetrieval-Augmented Generation (RAG) has become a cornerstone in modern AI solutions, enabling large language models to access external knowledge. However, traditional RAG systems often struggle with complex reasoning tasks and maintaining contextual relationships between pieces of information. This is where Knowledge Graphs can significantly enhance RAG capabilities.\r\n\nIn this article, I'll share my experience implementing a Graph RAG system that improved response accuracy by 37% compared to traditional vector-based approaches.\r\n\nThe Knowledge Graph Advantage:\r\n1. Structural Information: Unlike flat embeddings, graphs preserve relationships between entities\r\n2. Multi-hop Reasoning: Enable models to follow logical paths through connected information\r\n3. Context Preservation: Maintain hierarchical and semantic connections between concepts\r\n\nImplementation Process:\r\nMy implementation used Neo4j as the graph database with entity recognition techniques to extract key concepts from documents. Each entity became a node, with relationships formed based on co-occurrence and semantic similarity. The query process involved:\r\n\n1. Converting user questions to graph queries\r\n2. Traversing the graph to find relevant information paths\r\n3. Synthesizing information from multiple nodes\r\n4. Providing sources with confidence metrics\r",
+      "metadata": {
+        "sourceType": "medium",
+        "chunkIndex": 0,
+        "sourceId": "medium"
+      }
+    },
+    {
+      "id": "medium-1",
+      "content": "Synthesizing information from multiple nodes\r\n4. Providing sources with confidence metrics\r\n\nThis approach particularly shines in domains requiring deep expertise where relationships between concepts are crucial, such as medical diagnosis, financial analysis, or complex technical documentation.\r\n\nChallenges and Solutions:\r\n- Graph Construction Complexity: Automated relationship extraction requires sophisticated NLP\r\n- Query Translation: Converting natural language to graph queries requires specialized techniques\r\n- Performance at Scale: Graph traversal can be computationally expensive with large knowledge bases\r\n\nFuture Directions:\r\nI'm currently exploring hybrid approaches that combine the strength of vector embeddings for semantic similarity with graph structures for relationship modeling. This promises to deliver more accurate, explainable, and contextually aware AI responses.\r\n\n---\r\n\nTitle: Fine-Tuning LLMs: When, Why and How\r\nAuthor: Sai Chaitanya Pachipulusu\r\nDate: March 12, 2024\r\n\nWhile API access to powerful models like GPT-4 and Claude has democratized AI capabilities, many organizations are finding that fine-tuning their own models provides significant advantages in specialized domains. In this article, I'll explore when fine-tuning makes sense, and how to approach it efficiently.\r",
+      "metadata": {
+        "sourceType": "medium",
+        "chunkIndex": 1,
+        "sourceId": "medium"
+      }
+    },
+    {
+      "id": "medium-2",
+      "content": "In this article, I'll explore when fine-tuning makes sense, and how to approach it efficiently. \n\nWhen to Fine-Tune:\r\n1. Domain Specificity: Your application requires deep knowledge in a specialized field\r\n2. Consistent Style/Format: You need responses that follow strict templates or brand voice\r\n3. Data Privacy: You can't send sensitive information to third-party APIs\r\n4. Cost Optimization: High-volume applications may benefit economically from self-hosted models\r\n5. Latency Requirements: When response time is critical and API calls add unacceptable latency\r\n\nThe Fine-Tuning Process:\r\nBased on my experience implementing fine-tuned models for enterprise clients, I recommend this process:\r\n\n1. Data Collection: Gather high-quality examples of desired inputs and outputs\r\n2. Data Cleaning: Ensure consistency and remove errors or inappropriate content\r\n3. Model Selection: Choose an appropriate base model (Llama 3, Mistral, etc.) considering size/performance tradeoffs\r\n4. Parameter-Efficient Fine-Tuning: Use techniques like LoRA or QLoRA to reduce computational requirements\r\n5. Evaluation: Develop clear metrics for success that align with business objectives\r\n6. Deployment: Consider quantization for production to reduce inference costs\r",
+      "metadata": {
+        "sourceType": "medium",
+        "chunkIndex": 2,
+        "sourceId": "medium"
+      }
+    },
+    {
+      "id": "medium-3",
+      "content": "Evaluation: Develop clear metrics for success that align with business objectives\r\n6. Deployment: Consider quantization for production to reduce inference costs\r\n\nCommon Pitfalls:\r\n- Overfitting to Training Examples: Models can memorize training data rather than generalizing\r\n- Catastrophic Forgetting: Models may lose general capabilities during fine-tuning\r\n- Training Data Quality Issues: \"Garbage in, garbage out\" applies strongly to fine-tuning\r\n- Inadequate Evaluation: Failure to detect performance issues before deployment\r\n\nCase Study: Customer Service Optimization\r\nI recently implemented a fine-tuned Mistral 7B model for technical support that reduced escalations by 32% and improved customer satisfaction scores by 18%. The key was creating synthetic training data that covered the long tail of technical issues while maintaining a consistent, empathetic tone.\r\n\n---\r\n\nTitle: Practical Prompt Engineering Techniques for Production Systems\r\nAuthor: Sai Chaitanya Pachipulusu\r\nDate: February 8, 2024\r\n\nAs organizations integrate LLMs into production systems, the art and science of prompt engineering has evolved from ad-hoc experiments to structured methodologies. In this article, I'll share battle-tested techniques for developing robust prompting strategies that scale reliably in production environments.\r",
+      "metadata": {
+        "sourceType": "medium",
+        "chunkIndex": 3,
+        "sourceId": "medium"
+      }
+    },
+    {
+      "id": "medium-4",
+      "content": "In this article, I'll share battle-tested techniques for developing robust prompting strategies that scale reliably in production environments. \n\nThe Evolution of Prompting:\r\nFrom simple text completion to sophisticated frameworks like ReAct and Chain-of-Thought, prompt engineering has matured dramatically. Today's production systems require prompts that are:\r\n\n1. Resilient to input variations\r\n2. Optimized for model capabilities\r\n3. Aligned with business requirements\r\n4. Maintainable across model updates\r\n5. Testable against performance metrics\r\n\nCore Techniques for Production-Ready Prompting:\r\nBased on implementing AI systems across various industries, these are my most effective strategies:\r\n\nStructured Formatting:\r\nDefine clear input schemas with examples, constraints, and expected output formats. JSON templates work exceptionally well for structured outputs.\r\n\nContext Management:\r\nWith context windows expanding but still limited, implementing strategic context pruning and prioritization is essential for long-running conversations or document processing.\r\n\nInstruction Layering:\r\nSeparate prompts into distinct layers - system-level directives, user-specific instructions, and task-specific guidance - allowing for modular updates and maintenance.\r\n\nDynamic Prompt Generation:\r\nImplement programmatic prompt construction that adapts to user needs, available data, and previous interaction history.\r\n\nError Handling:\r\nDevelop robust fallback strategies for edge cases, hallucinations, and model limitations.\r",
+      "metadata": {
+        "sourceType": "medium",
+        "chunkIndex": 4,
+        "sourceId": "medium"
+      }
+    },
+    {
+      "id": "medium-5",
+      "content": "Error Handling:\r\nDevelop robust fallback strategies for edge cases, hallucinations, and model limitations. \n\nMeasuring Prompt Performance:\r\nEstablish clear metrics for:\r\n- Output quality (accuracy, relevance)\r\n- Consistency across similar inputs\r\n- Robustness to edge cases\r\n- Computational efficiency (token usage)\r\n\nImplementation Example:\r\nIn a recent financial analysis application, we improved accuracy from 76% to 94% by implementing structured JSON outputs with validation schemas and chain-of-thought reasoning. The key innovation was dynamically adjusting prompt complexity based on the detected difficulty of the query.\r\n\nFuture Directions:\r\nAs models continue to evolve, effective prompt engineering will increasingly focus on meta-prompting - teaching models how to refine their own understanding of tasks through iterative feedback loops.\r\n\n---\r\n\nTitle: Building Scalable AI Data Pipelines: Lessons from Production\r\nAuthor: Sai Chaitanya Pachipulusu\r\nDate: January 15, 2024\r\n\nBehind every successful AI application lies a sophisticated data pipeline. As AI systems mature from prototypes to production services, the engineering challenges of data processing become increasingly significant. This article distills key lessons from my experience building and optimizing data pipelines for large-scale AI deployments.\r",
+      "metadata": {
+        "sourceType": "medium",
+        "chunkIndex": 5,
+        "sourceId": "medium"
+      }
+    },
+    {
+      "id": "medium-6",
+      "content": "This article distills key lessons from my experience building and optimizing data pipelines for large-scale AI deployments. \n\nThe Data Pipeline Challenge:\r\nModern AI systems require pipelines that can:\r\n1. Process diverse data formats and sources\r\n2. Handle varying volumes with consistent performance\r\n3. Maintain data quality and provenance\r\n4. Support experimentation while ensuring reproducibility\r\n5. Scale cost-effectively with usage\r\n\nCore Components of AI Data Infrastructure:\r\nBased on production implementations across multiple industries, these components form the backbone of effective AI data systems:\r\n\nIngestion Layer:\r\n- Event-driven architectures using Kafka or Kinesis for real-time data\r\n- Scheduled batch processing for historical data\r\n- Change data capture (CDC) for database synchronization\r\n- API connectors for third-party data sources\r\n\nProcessing Layer:\r\n- Data validation and schema enforcement\r\n- ETL/ELT operations for transformation\r\n- Feature extraction and embedding generation\r\n- Data augmentation and synthetic data creation\r\n\nStorage Layer:\r\n- Data lakes for raw, immutable data\r\n- Feature stores for ML-ready attributes\r\n- Vector databases for embedding storage and retrieval\r\n- Metadata repositories for lineage tracking\r",
+      "metadata": {
+        "sourceType": "medium",
+        "chunkIndex": 6,
+        "sourceId": "medium"
+      }
+    },
+    {
+      "id": "medium-7",
+      "content": "Storage Layer:\r\n- Data lakes for raw, immutable data\r\n- Feature stores for ML-ready attributes\r\n- Vector databases for embedding storage and retrieval\r\n- Metadata repositories for lineage tracking\r\n\nOperational Concerns:\r\n- Monitoring data quality metrics and drift detection\r\n- Managing schema evolution\r\n- Implementing appropriate partitioning strategies\r\n- Balancing cost vs. performance in storage decisions\r\n\nCase Study: Scaling Embedding Generation\r\nWhen developing a large-scale RAG system processing millions of documents daily, we faced challenges with embedding generation becoming a bottleneck. Our solution implemented:\r\n\n1. Asynchronous processing queues with priority tiers\r\n2. Horizontal scaling with dynamic worker allocation\r\n3. Chunk-level deduplication to eliminate redundant processing\r\n4. Progressive embedding updates targeting only changed content\r\n5. Embedding caching with LRU eviction strategies\r\n\nThis reduced processing costs by 78% while improving throughput by 5x.\r\n\nDesign Principles for AI Data Systems:\r\n- Favor decoupled components with clear interfaces\r\n- Design for incremental processing by default\r\n- Implement comprehensive observability from day one\r\n- Anticipate scale challenges before they occur\r\n- Establish data contracts between system components\r\n\nAs AI systems continue to evolve, the sophistication of supporting data infrastructure will increasingly determine which applications succeed at scale. ",
+      "metadata": {
+        "sourceType": "medium",
+        "chunkIndex": 7,
+        "sourceId": "medium"
+      }
+    },
+    {
+      "id": "twitter-0",
+      "content": "2024-04-15: Just published my latest article on Medium about building Knowledge Graph-based RAG systems! Improved accuracy by 37% compared to traditional vector search. #KnowledgeGraphs #RAG #AI\r\n\n2024-04-10: Excited to share that I've joined Community Dreams Foundation as a Machine Learning Engineer! Looking forward to building innovative AI solutions for HR and support systems. #NewRole #AI #ML\r\n\n2024-04-05: Hot take: Fine-tuning smaller open-source LLMs often beats using giant API models for specialized domains. Lower latency, better privacy, and more control. Been seeing great results with Mistral 7B + LoRA. #LLMs #AI #OpenSource\r\n\n2024-03-28: Just finished implementing a RAG system with ChromaDB for a job transition recommender. Hit@5 score of 0.87! Async processing cut API latency from 12s to 4s. #GenAI #RAG #ChromaDB\r\n\n2024-03-20: The synergy between vector databases and knowledge graphs is underexplored. Vector search for semantic similarity + graph traversal for relationship understanding = powerful combination. Working on this hybrid approach now. #VectorDB #KnowledgeGraphs\r\n\n2024-03-15: Current tech stack for our production RAG systems: LangChain + Mistral + ChromaDB for fast prototyping, with custom pipelines for production scale. What's everyone else using? #LLMOps #RAG\r",
+      "metadata": {
+        "sourceType": "twitter",
+        "chunkIndex": 0,
+        "sourceId": "twitter"
+      }
+    },
+    {
+      "id": "twitter-1",
+      "content": "What's everyone else using. #LLMOps #RAG\r\n\n2024-03-08: TIL: Caching embeddings at both chunk and document levels reduced our vector search costs by 68% in production. Small optimizations add up! #VectorDatabases #CostOptimization\r\n\n2024-03-01: Just gave a talk at Stevens Tech on practical prompt engineering for production systems. Key takeaway: structured outputs + chain-of-thought reasoning + robust error handling = reliable AI systems. #PromptEngineering #AI\r\n\n2024-02-25: Running benchmark tests on different vector DB solutions. So far, Pinecone edges out on speed for our use case, but Weaviate's hybrid search capabilities are impressive. #VectorDatabases #RAG\r\n\n2024-02-20: Excited to graduate from Stevens Institute of Technology with my MS in Machine Learning in May! It's been an incredible journey deepening my AI expertise. #GradSchool #MachineLearning\r\n\n2024-02-15: Controversial opinion: Most RAG implementations are overengineered. Start simple - good chunking strategy + basic search is often enough. Add complexity only when you hit specific bottlenecks. #RAG #AI #Engineering\r\n\n2024-02-10: Been experimenting with Llama 3 for our customer support chatbot. The quality improvement over Llama 2 is substantial, especially for nuanced conversations. #Llama3 #CustomerSupport\r",
+      "metadata": {
+        "sourceType": "twitter",
+        "chunkIndex": 1,
+        "sourceId": "twitter"
+      }
+    },
+    {
+      "id": "twitter-2",
+      "content": "The quality improvement over Llama 2 is substantial, especially for nuanced conversations. #Llama3 #CustomerSupport\r\n\n2024-02-05: My go-to embedding model recently: all-MiniLM-L6-v2. Fast, efficient, and surprisingly effective for most RAG use cases. What are you all using? #Embeddings #NLP\r\n\n2024-01-30: Just deployed a custom trained NER model for extracting structured data from technical documents. 95% accuracy and 10x faster than manual processing! #NER #ML #DataExtraction\r\n\n2024-01-25: Thread: 5 lessons learned from building AI data pipelines at scale:\r\n1. Data quality trumps model complexity every time\r\n2. Build observability from day one\r\n3. Automate validation at every stage\r\n4. Design for incremental processing\r\n5. Monitor drift continuously\r\n#MLOps #DataEngineering\r\n\n2024-01-20: Working on a project to extract knowledge graphs from technical documentation. The combination of LLMs for relationship extraction + traditional NLP for entity recognition is powerful! #KnowledgeGraphs #NLP\r\n\n2024-01-15: Published my article on scaling AI data pipelines in production environments. Reduced processing costs by 78% while improving throughput 5x! #MLOps #Scalability #DataPipelines\r\n\n2024-01-10: Multimodal models are transforming how we build AI applications. Currently exploring MM1 for a project that integrates document understanding with visual inspection. #MultimodalAI #ComputerVision\r",
+      "metadata": {
+        "sourceType": "twitter",
+        "chunkIndex": 2,
+        "sourceId": "twitter"
+      }
+    },
+    {
+      "id": "twitter-3",
+      "content": "Currently exploring MM1 for a project that integrates document understanding with visual inspection. #MultimodalAI #ComputerVision\r\n\n2024-01-05: New year resolution: Contribute more to open source AI projects. Starting with some PRs to LangChain for improved ChromaDB integration. #OpenSource #AI #LangChain ",
+      "metadata": {
+        "sourceType": "twitter",
+        "chunkIndex": 3,
+        "sourceId": "twitter"
+      }
+    }
+  ]
+}

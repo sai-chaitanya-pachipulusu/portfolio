@@ -1,10 +1,6 @@
-node_modules
-components/Essays.js
-components/FeaturedProject.js
+node_modules/
 .env.local
 .env
 .next/
-# Generated RAG data
-data/graph.json
-data/embeddings.json
-data/processed_sources.json
+components/Essays.js
+components/FeaturedProject.js
