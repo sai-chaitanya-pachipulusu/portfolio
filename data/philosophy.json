@@ -1,0 +1,26 @@
+{
+  "core_beliefs": [
+    "Data quality and proper preprocessing trump model complexity every time",
+    "Start simple with proven architectures, add complexity only when needed",
+    "Observability, monitoring, and evaluation frameworks are non-negotiable",
+    "Open source provides better control and cost efficiency for specialized domains",
+    "User experience and business metrics should drive all technical decisions",
+    "Infrastructure as code and containerization essential for reliable ML deployments"
+  ],
+  "problem_solving_methodology": [
+    "Understand the business problem deeply before selecting any technology stack",
+    "Prototype quickly with existing tools (LangChain, Streamlit, Kubernetes)",
+    "Establish baselines and proper evaluation metrics before optimization",
+    "Optimize for the constraint that matters most (cost, latency, accuracy, compliance)",
+    "Build for scale from day one but deploy incrementally with blue-green strategies",
+    "Implement human-in-the-loop validation for critical decision systems"
+  ],
+  "technology_preferences": {
+    "ChromaDB_Weaviate": "ChromaDB for rapid prototyping, Weaviate for production vector search",
+    "Mistral_Llama": "Mistral and Llama models for cost-efficiency and local deployment control",
+    "PEFT_LoRA": "Parameter-efficient fine-tuning essential for cost-effective specialization",
+    "Kubernetes_Docker": "Container orchestration critical for production ML workloads",
+    "FastAPI_Streamlit": "FastAPI for robust APIs, Streamlit for rapid prototyping interfaces",
+    "Terraform_IaC": "Infrastructure as code non-negotiable for reliable deployments"
+  }
+}

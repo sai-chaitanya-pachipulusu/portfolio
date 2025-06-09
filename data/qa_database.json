@@ -1,0 +1,172 @@
+[
+  {
+    "question": "What's your experience with production RAG systems?",
+    "answer": "I have extensive production RAG experience. At Community Dreams Foundation, I built a RAG system using Llama-3-8B-Instruct with hybrid search (BM25+vector) that achieved 92% RAGAS-evaluated query resolution and reduced HR support workload by 35%. I've also implemented Graph RAG systems and career recommendation engines with ChromaDB achieving 0.87 hit@5 score. My focus is on practical, cost-effective implementations that scale reliably in production.",
+    "context": "rag_production_experience",
+    "related_projects": [
+      "hr-matching-platform",
+      "career-roadmap-generator"
+    ]
+  },
+  {
+    "question": "How do you approach LLM fine-tuning and optimization?",
+    "answer": "I'm a strong advocate for parameter-efficient fine-tuning using LoRA/PEFT techniques. I've fine-tuned models from Llama-2-7B to Phi-3-mini, achieving 84% accuracy while reducing costs by 65% compared to API solutions. I also use model distillation (Phi-3-vision to Phi-3-mini) with quantization (INT8/QLoRA) for on-premise deployments. Key is proper dataset curation, evaluation frameworks, and avoiding catastrophic forgetting.",
+    "context": "llm_optimization",
+    "related_projects": [
+      "saas-chatbot",
+      "hr-matching-platform"
+    ]
+  },
+  {
+    "question": "What's your experience with production ML infrastructure?",
+    "answer": "I've built ML systems handling significant scale - from 400 events/second sensor data pipelines at Shell to 15,000+ monthly applications on the HR platform. I use Kubernetes/KServe with blue-green deployment, achieving 3x traffic spike capability with 70% resource efficiency. I emphasize Infrastructure as Code (Terraform), containerization (Docker), and comprehensive monitoring (Prometheus/Grafana). Recent work saved $45K annually through optimization.",
+    "context": "ml_infrastructure",
+    "related_projects": [
+      "hr-matching-platform",
+      "shell-data-pipeline"
+    ]
+  },
+  {
+    "question": "Tell me about your HR matching platform achievements.",
+    "answer": "At Community Dreams Foundation, I led development of an enterprise HR matching platform that revolutionized hiring for 50+ departments. Key achievements: reduced candidate screening from 8 to 3 hours per requisition, improved qualified candidate identification by 18% across 15,000+ monthly applications, achieved 96% positive reception on automated communications, and unlocked $1.2M in new contracts through data sovereignty compliance. The system uses E5-large embeddings with DeBERTa-v3 cross-encoders and LambdaMART ranking algorithms.",
+    "context": "hr_platform_details",
+    "related_projects": [
+      "hr-matching-platform"
+    ]
+  },
+  {
+    "question": "What were your key achievements at Shell/CGI?",
+    "answer": "During my time at CGI working on Shell Corporation projects, I engineered real-time sensor data pipelines processing 400 events/second, reduced data availability lag from overnight batch to under 5 minutes, and cut false anomaly alerts by 30%. I led migration of 52 legacy servers to AWS EC2 using Terraform, saving $8K monthly. The Databricks Medallion architecture optimization decreased pipeline failures by 75% and cut recovery time from 4 hours to 45 minutes. I was awarded Best Employee Q4 2021 for leading 30% of the data migration effort.",
+    "context": "shell_achievements",
+    "related_projects": [
+      "shell-data-pipeline"
+    ]
+  },
+  {
+    "question": "Describe your computer vision and AI experience.",
+    "answer": "I have extensive computer vision experience spanning facial recognition, OCR, and predictive maintenance. At Imbuedesk, I achieved 97% accuracy on FER2013 facial recognition dataset, processed 5k vehicle plates daily with Tesseract OCR, and reduced equipment downtime by 28% through predictive maintenance systems. I used fine-tuned ResNet-50 and custom VGG-16 models, achieved 2x training speedup with mixed-precision, and 12% better generalization through systematic data augmentation. Currently exploring vision-language models (CLIP, BLIP) for document understanding.",
+    "context": "computer_vision_experience",
+    "related_projects": [
+      "computer-vision-systems"
+    ]
+  },
+  {
+    "question": "How do you approach cost optimization in ML systems?",
+    "answer": "Cost optimization is crucial for production ML. I've achieved significant savings: $45K annually through Kubernetes resource efficiency, 65% reduction using fine-tuned models vs APIs, $8K monthly through cloud migration, and $1.2M in unlocked contracts through model distillation for data sovereignty. Key strategies include model distillation/quantization, efficient deployment architectures, proper caching, and choosing the right model size for the task. I always optimize for the constraint that matters most - cost, latency, or accuracy.",
+    "context": "cost_optimization",
+    "related_projects": [
+      "hr-matching-platform",
+      "saas-chatbot",
+      "shell-data-pipeline"
+    ]
+  },
+  {
+    "question": "What's your tech stack preference and why?",
+    "answer": "I choose technology based on problem constraints and production requirements. Core stack: Python + FastAPI + Streamlit for development; PyTorch + HuggingFace for ML; Kubernetes + Docker + Terraform for deployment. For LLMs: Llama-3, Phi-3, Mistral for cost-efficiency; GPT-4o when needed. Vector storage: ChromaDB for prototyping, Weaviate/Pinecone for production. I prefer open-source solutions for better control and cost optimization. Recently built SideBuilds.space using React, Node.js, CockroachDB stack.",
+    "context": "tech_preferences",
+    "related_projects": [
+      "hr-matching-platform",
+      "career-roadmap-generator",
+      "sidebuilds-platform"
+    ]
+  },
+  {
+    "question": "How do you handle AI bias and fairness?",
+    "answer": "Bias mitigation is critical, especially in HR applications. In my resume matching platform, I implemented bias detection across diverse roles and backgrounds, ensuring fairness for 50+ HR departments. I use diverse training data, regular bias audits, and fairness metrics. For automated communications, I include sentiment analysis and human-in-the-loop preference learning, achieving 96% positive reception while reducing negative reviews by 42%. Always prioritize ethical AI development and regulatory compliance.",
+    "context": "ai_fairness",
+    "related_projects": [
+      "hr-matching-platform"
+    ]
+  },
+  {
+    "question": "Tell me about your educational background and certifications.",
+    "answer": "I hold a Master of Science in Machine Learning from Stevens Institute of Technology (2022-2024) with a CGPA of 3.9/4.0, and a Bachelor of Technology in Information Technology from Sreenidhi Institute of Science and Technology (2016-2020). I'm certified as an SPSS professional in Data Mining and Warehousing, completed the Machine Learning Specialization on Coursera, and I'm currently pursuing AWS Certified Machine Learning – Specialty certification. I'm also actively engaged in the ML community through Hugging Face forums and GitHub contributions.",
+    "context": "education_certifications",
+    "related_projects": []
+  },
+  {
+    "question": "What are your current career goals and job preferences?",
+    "answer": "I'm actively seeking new opportunities in Machine Learning Engineering, AI/GenAI roles, Data Engineering, or MLOps positions that align with my 4+ years of experience. I'm open to various role types including individual contributor, tech lead, or team lead positions. Short-term goals include leading production-scale AI systems and contributing to open-source AI infrastructure. Long-term, I aim to join or found an AI startup and develop novel approaches to knowledge representation. I'm authorized to work in the US, don't currently need sponsorship, and it's not mandatory for employers to provide future sponsorship.",
+    "context": "career_goals_job_search",
+    "related_projects": []
+  },
+  {
+    "question": "What types of roles are you looking for?",
+    "answer": "I'm open to all types of roles related to my skills and experience, including: Machine Learning Engineer, AI/GenAI Engineer, Data Scientist, MLOps Engineer, Data Engineer, AI Research Engineer, Technical Lead, or Senior Software Engineer with ML focus. I'm particularly interested in positions involving production ML systems, RAG implementations, LLM fine-tuning, computer vision, or large-scale data processing. I can work across different industries - from HR tech and fintech to healthcare and industrial applications.",
+    "context": "role_preferences",
+    "related_projects": [
+      "hr-matching-platform",
+      "shell-data-pipeline",
+      "computer-vision-systems",
+      "career-roadmap-generator"
+    ]
+  },
+  {
+    "question": "Do you need sponsorship or have work authorization?",
+    "answer": "I am authorized to work in the US and do not currently need sponsorship. For future work authorization, sponsorship is not mandatory - I'm comfortable working with companies that don't provide visa sponsorship. This flexibility allows me to work with startups, mid-size companies, or large enterprises without visa constraints being a barrier. I'm male, Asian/South Asian, not a protected veteran, and have no disabilities that would affect my work performance.",
+    "context": "work_authorization",
+    "related_projects": []
+  },
+  {
+    "question": "How do you evaluate and monitor ML systems in production?",
+    "answer": "I implement comprehensive evaluation frameworks from day one. For RAG systems, I use RAGAS evaluation achieving 92% query resolution. I track custom business metrics (screening time, cost savings, user satisfaction) alongside technical metrics (latency, accuracy, resource usage). I use Prometheus/Grafana for monitoring and implement drift detection. Human-in-the-loop validation is crucial for critical decisions, as demonstrated in my HR platform work. I also establish proper baselines and A/B testing frameworks for continuous improvement.",
+    "context": "ml_evaluation",
+    "related_projects": [
+      "hr-matching-platform",
+      "career-roadmap-generator"
+    ]
+  },
+  {
+    "question": "What's your experience with model distillation and quantization?",
+    "answer": "I have hands-on experience with model distillation and quantization for production deployments. At Community Dreams Foundation, I implemented model distillation from Phi-3-vision to Phi-3-mini with INT8/QLoRA quantization, maintaining 97% accuracy while meeting strict data sovereignty requirements. This lightweight on-premise solution helped unlock $1.2M in new contracts. I also achieved 65% cost reduction in my SaaS chatbot through efficient Llama-2-7B deployment on a single A10 GPU. These techniques are essential for edge deployment and cost optimization.",
+    "context": "model_optimization",
+    "related_projects": [
+      "hr-matching-platform",
+      "saas-chatbot"
+    ]
+  },
+  {
+    "question": "Tell me about your side projects and platforms.",
+    "answer": "I've built several notable side projects: SideBuilds.space is a live production platform (React, Node.js, CockroachDB) for showcasing and monetizing developer side projects with integrated Stripe payments. My Career Roadmap Generator achieved 0.87 hit@5 score using GPT models with ChromaDB, reducing API latency from 12s to 4s. I also developed an AI vs Human analysis project using Selenium, SentenceTransformers, and SVM to explore machine intelligence boundaries. These projects demonstrate my full-stack capabilities and practical AI implementation skills.",
+    "context": "side_projects",
+    "related_projects": [
+      "sidebuilds-platform",
+      "career-roadmap-generator",
+      "ai-vs-human"
+    ]
+  },
+  {
+    "question": "What's your experience with real-time data processing and streaming?",
+    "answer": "I have extensive experience with real-time data processing from my work at Shell/CGI. I engineered real-time sensor data pipelines using Kafka Connect and Spark Streaming for 8 critical streams processing 400 events/second. I implemented Python envelope/spectral analysis in Spark with BigQuery as the data warehouse, reducing data availability lag from overnight batch to under 5 minutes. I've also built sub-100ms Kafka ingestion pipelines for high-frequency LiDAR streams and handled 300% peak load spikes with 99.9% reliability.",
+    "context": "real_time_processing",
+    "related_projects": [
+      "shell-data-pipeline",
+      "computer-vision-systems"
+    ]
+  },
+  {
+    "question": "How do you approach building scalable ML architectures?",
+    "answer": "I build scalable ML architectures using cloud-native patterns and container orchestration. For the HR platform, I implemented Kubernetes/KServe with blue-green deployment supporting 3x traffic spikes with 70% resource efficiency. I use Infrastructure as Code (Terraform), containerization (Docker), and comprehensive monitoring (Prometheus/Grafana). For data processing, I leverage Databricks Medallion architecture with robust schema validation and incremental processing. The key is building for scale from day one while deploying incrementally with proper observability.",
+    "context": "scalable_architectures",
+    "related_projects": [
+      "hr-matching-platform",
+      "shell-data-pipeline"
+    ]
+  },
+  {
+    "question": "What's your experience with different cloud platforms?",
+    "answer": "I have extensive multi-cloud experience across AWS, GCP, and Azure. At Shell, I led migration of 52 legacy servers to AWS EC2 using Terraform, achieving 99.9% uptime and $8K monthly savings. I've used Azure ML for experiment tracking and endpoint creation, reducing deployment time by 50%. My current tech stack includes AWS (S3, EC2, Lambda, SageMaker, Bedrock), GCP (Vertex AI, BigQuery, Cloud Storage), and various deployment platforms like Vercel and Render. I prefer cloud-agnostic approaches for better flexibility and cost optimization.",
+    "context": "cloud_experience",
+    "related_projects": [
+      "shell-data-pipeline",
+      "hr-matching-platform",
+      "sidebuilds-platform"
+    ]
+  },
+  {
+    "question": "How do you stay current with AI/ML developments?",
+    "answer": "I actively stay current through multiple channels: I'm an active contributor on Hugging Face forums and GitHub repositories, participate in ML/AI meetups and technical conferences, and write Medium articles reaching the AI practitioner community. I contribute to open-source projects like LangChain and ChromaDB improvements. I'm currently focused on multimodal AI, vision-language models (CLIP, BLIP), knowledge graph integration with vector search, and advanced graph neural networks. I also experiment with new AI models and optimization techniques through side projects.",
+    "context": "continuous_learning",
+    "related_projects": []
+  }
+]

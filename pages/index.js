@@ -105,7 +105,8 @@ export default function Home() {
                 <Footer />
               </AnimatedSection>
           </Container>
-          {/* Render Chat outside the main container so it's always accessible */}
+          
+          {/* Only the Chat component remains */}
           <Chat /> 
       </Box>
     );

@@ -2,7 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/experimentaaal/gradient-descent": "pages/experimentaaal/gradient-descent.js",
-  "/": "pages/index.js",
-  "/experimentaaal": "pages/experimentaaal.js"
+  "/": "pages/index.js"
 }

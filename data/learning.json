@@ -1,0 +1,30 @@
+{
+  "recent_focus_areas": [
+    "Multimodal AI applications and vision-language models (CLIP, BLIP)",
+    "Knowledge Graph integration with vector search for hybrid RAG systems",
+    "Production MLOps best practices and model monitoring at scale",
+    "Advanced prompt engineering and evaluation frameworks (RAGAS)",
+    "Model distillation, quantization, and edge deployment optimization",
+    "Regulatory compliance and data sovereignty in AI systems"
+  ],
+  "knowledge_sharing": [
+    "Medium articles on practical AI implementation and cost optimization",
+    "Twitter threads sharing insights on ML engineering and deployment",
+    "Speaking at technical conferences and ML/AI meetups",
+    "Active participation in Hugging Face forums and GitHub community",
+    "Open source contributions to LangChain, ChromaDB, and evaluation frameworks",
+    "Mentoring junior engineers on ML system design and implementation"
+  ],
+  "certifications_completed": [
+    "Machine Learning Specialization (Coursera)",
+    "SPSS certified professional in Data mining and Warehousing",
+    "Multiple cloud platform certifications for ML deployment"
+  ],
+  "current_learning": [
+    "AWS Certified Machine Learning – Specialty (in progress)",
+    "Advanced graph neural networks for knowledge representation",
+    "Retrieval-augmented generation optimization and evaluation",
+    "Large-scale vector database management and optimization",
+    "Regulatory frameworks for AI deployment in enterprise environments"
+  ]
+}

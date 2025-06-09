@@ -1,0 +1,346 @@
+[
+  {
+    "id": "hr-matching-platform",
+    "title": "HR Matching Platform - Community Dreams Foundation",
+    "timeline": "July 2024 - Present",
+    "status": "production",
+    "technologies": [
+      "E5-large embeddings",
+      "DeBERTa-v3",
+      "LambdaMART",
+      "Kubernetes",
+      "KServe",
+      "Phi-3-vision",
+      "Phi-3-mini",
+      "LoRA",
+      "Llama-3-8B-Instruct",
+      "BM25",
+      "Weaviate",
+      "AWS SageMaker"
+    ],
+    "category": "HR Technology / GenAI",
+    "description": "Enterprise-scale HR matching platform with AI-powered candidate screening and personalized communications",
+    "problem": "Manual candidate screening taking 8+ hours per requisition, inefficient hiring processes, data security concerns",
+    "solution": "Vector-based similarity search with neural reranking, contextual ranking algorithms, and on-premise model distillation",
+    "technical_details": {
+      "architecture": [
+        "E5-large embeddings with DeBERTa-v3 cross-encoders for candidate matching",
+        "LambdaMART contextual ranking algorithms for candidate-job fit optimization",
+        "Kubernetes/KServe architecture with blue-green deployment",
+        "Model distillation pipeline (Phi-3-vision to Phi-3-mini) with INT8/QLoRA quantization",
+        "RAG architecture with Llama-3-8B-Instruct and hybrid search (BM25+vector)",
+        "Fine-tuned Phi-3-mini with task-specific LoRA adapters for communications"
+      ],
+      "innovations": [
+        "Neural reranking improving qualified candidate identification by 18%",
+        "Lightweight on-premise solution maintaining 97% accuracy",
+        "Human-in-the-loop preference learning for personalized messaging",
+        "Hybrid search architecture achieving 92% RAGAS-evaluated query resolution"
+      ],
+      "challenges": [
+        "Meeting strict data sovereignty requirements across 50+ HR departments",
+        "Handling 3x traffic spikes while maintaining resource efficiency",
+        "Reducing candidate frustration with automated communications",
+        "Balancing model accuracy with deployment constraints"
+      ],
+      "learnings": [
+        "Model distillation critical for on-premise deployments",
+        "Human-in-the-loop training significantly improves user satisfaction",
+        "Blue-green deployment essential for high-availability ML systems",
+        "Hybrid search outperforms pure vector or keyword approaches"
+      ]
+    },
+    "metrics": {
+      "screening_efficiency": "Candidate screening time reduced from 8 to 3 hours per requisition",
+      "hiring_speed": "40% reduction in time-to-hire",
+      "accuracy": "18% improvement in qualified candidate identification across 15,000+ monthly applications",
+      "cost_savings": "$45K annual savings in infrastructure costs through 70% resource efficiency",
+      "contracts": "$1.2M in new contracts unlocked through data sovereignty compliance",
+      "satisfaction": "96% positive reception on automated communications, 42% reduction in negative reviews",
+      "support_reduction": "35% reduction in HR support workload",
+      "resolution_rate": "92% RAGAS-evaluated query resolution on first attempt"
+    },
+    "business_impact": "Revolutionized hiring process for 50+ HR departments, enabling scalable candidate processing while maintaining compliance",
+    "company": "Community Dreams Foundation"
+  },
+  {
+    "id": "shell-data-pipeline",
+    "title": "Real-time Industrial Data Pipeline - Shell Corporation",
+    "timeline": "Sep 2020 - Jun 2022",
+    "status": "completed",
+    "technologies": [
+      "Kafka Connect",
+      "Spark Streaming",
+      "Python",
+      "BigQuery",
+      "Azure ML",
+      "Docker",
+      "Kubernetes",
+      "AKS",
+      "Databricks",
+      "Terraform",
+      "AWS EC2"
+    ],
+    "category": "Data Engineering / MLOps",
+    "description": "Enterprise-scale real-time data processing for industrial operations with predictive maintenance",
+    "problem": "Batch processing delays affecting critical operational decisions, high false alert rates, lengthy deployment cycles",
+    "solution": "Real-time streaming architecture with ML-powered anomaly detection and automated deployment pipelines",
+    "technical_details": {
+      "architecture": [
+        "Kafka Connect and Spark Streaming for 8 sensor streams (400 events/sec)",
+        "Python envelope/spectral analysis processing in Spark",
+        "BigQuery data warehouse with real-time landing",
+        "Azure ML for experiment tracking and endpoint creation",
+        "Docker containerization with Kubernetes (AKS) orchestration",
+        "Databricks Medallion architecture with schema validation"
+      ],
+      "innovations": [
+        "Real-time processing replacing overnight batch operations",
+        "ML-powered anomaly detection reducing false alerts by 30%",
+        "50% reduction in model deployment time through containerization",
+        "Incremental processing with robust schema validation"
+      ],
+      "challenges": [
+        "Zero-downtime migration of 52 legacy servers",
+        "Handling high-velocity sensor data with spectral analysis",
+        "Maintaining 99.9% uptime during migration",
+        "Optimizing costs while scaling infrastructure"
+      ],
+      "learnings": [
+        "Real-time architectures require careful envelope analysis for anomaly detection",
+        "Infrastructure as code (Terraform) essential for reliable deployments",
+        "Medallion architecture provides robust data quality guarantees",
+        "Containerization dramatically improves deployment reliability"
+      ]
+    },
+    "metrics": {
+      "latency": "Data availability lag reduced from overnight batch to <5 minutes",
+      "cost_savings": "$8k monthly operational cost reduction",
+      "reliability": "99.9% uptime over 6-month period",
+      "efficiency": "75% reduction in pipeline failures (12 to 3 weekly)",
+      "recovery_time": "Data recovery time cut from 4 hours to 45 minutes",
+      "false_alerts": "30% reduction in false anomaly alerts",
+      "deployment_speed": "50% reduction in model deployment time"
+    },
+    "business_impact": "Enabled real-time operational decisions for Shell refinery operations, awarded Best Employee Q4 2021",
+    "company": "CGI (Client: Shell Corporation)",
+    "recognition": "Best Employee Q4 2021, led 30% of overall data migration effort"
+  },
+  {
+    "id": "computer-vision-systems",
+    "title": "Computer Vision & Predictive Maintenance Systems",
+    "timeline": "May 2018 - Aug 2020",
+    "status": "completed",
+    "technologies": [
+      "ResNet-50",
+      "VGG-16",
+      "TensorFlow",
+      "AWS EC2",
+      "SageMaker",
+      "Tesseract OCR",
+      "OpenCV",
+      "Kubernetes",
+      "Flask",
+      "Dash",
+      "PySpark",
+      "Apache Airflow",
+      "Kafka",
+      "OpenAI Gym"
+    ],
+    "category": "Computer Vision / Predictive Analytics",
+    "description": "High-performance computer vision systems for facial recognition, OCR, and predictive maintenance",
+    "problem": "Manual vehicle identification processes, equipment downtime prediction, scalable image processing needs",
+    "solution": "Fine-tuned deep learning models with robust ETL pipelines and real-time processing architecture",
+    "technical_details": {
+      "architecture": [
+        "Fine-tuned ResNet-50 & custom VGG-16 on AWS (EC2 GPUs, SageMaker)",
+        "Tesseract OCR and OpenCV pipeline deployed on Kubernetes",
+        "Multi-modal sensor data processing with PySpark and Apache Airflow",
+        "Kafka-based pipeline for high-frequency LiDAR streams",
+        "Flask/Dash dashboards on AWS Elastic Beanstalk"
+      ],
+      "innovations": [
+        "97% accuracy on FER2013 facial expression recognition dataset",
+        "2x training speed improvement using mixed-precision training",
+        "12% better model generalization through systematic data augmentation",
+        "Sub-100ms latency Kafka ingestion pipeline",
+        "Reinforcement Learning for dynamic resource allocation"
+      ],
+      "challenges": [
+        "Processing 5k vehicle plates daily with high accuracy",
+        "Handling 300% peak load spikes in real-time processing",
+        "Maintaining 99.9% reliability for ML model training data",
+        "Optimizing model training speed and generalization"
+      ],
+      "learnings": [
+        "Mixed-precision training provides significant speedup without accuracy loss",
+        "Systematic data augmentation crucial for computer vision generalization",
+        "Kubernetes orchestration essential for scalable image processing",
+        "Reinforcement Learning shows promise for dynamic resource optimization"
+      ]
+    },
+    "metrics": {
+      "accuracy": "97% accuracy on FER2013 dataset",
+      "training_speed": "2x faster training with mixed-precision",
+      "generalization": "12% improvement in model generalization",
+      "throughput": "5k vehicle plates processed daily",
+      "downtime_reduction": "28% reduction in equipment downtime",
+      "reliability": "99.9% ETL workflow reliability",
+      "latency": "Sub-100ms Kafka ingestion latency",
+      "load_handling": "300% peak load spike capability",
+      "potential_gains": "20% potential throughput gains with RL optimization"
+    },
+    "business_impact": "Automated vehicle identification and reduced maintenance costs through predictive analytics",
+    "company": "Imbuedesk Pvt. Ltd"
+  },
+  {
+    "id": "career-roadmap-generator",
+    "title": "Career Roadmap Generator",
+    "timeline": "2024",
+    "status": "completed",
+    "technologies": [
+      "GPT-3.5",
+      "GPT-4o",
+      "ChromaDB",
+      "Streamlit",
+      "Python",
+      "RAG",
+      "LangChain"
+    ],
+    "category": "Generative AI / Career Tech",
+    "description": "AI-powered career transition recommendation system using RAG architecture",
+    "problem": "Job seekers need personalized career guidance based on their background and target roles",
+    "solution": "Integrated GPT models with ChromaDB for context-aware job transition recommendations",
+    "technical_details": {
+      "architecture": [
+        "ChromaDB for vector storage and similarity search",
+        "GPT-3.5 and GPT-4o models for intelligent recommendation generation",
+        "Streamlit interface for user interaction",
+        "Async processing pipeline for concurrent user support"
+      ],
+      "innovations": [
+        "Context-aware job transition recommendations",
+        "Performance optimization for concurrent users",
+        "Evaluation framework with hit@5 scoring methodology"
+      ],
+      "challenges": [
+        "Handling diverse career backgrounds across industries",
+        "Maintaining recommendation quality across different experience levels",
+        "Optimizing API latency for real-time user experience"
+      ],
+      "learnings": [
+        "Async processing critical for multi-user applications",
+        "Context-aware retrieval significantly improves recommendation relevance",
+        "Proper evaluation metrics essential for measuring system performance"
+      ]
+    },
+    "metrics": {
+      "accuracy": "0.87 hit@5 score on evaluation set of 200 anonymized job transitions",
+      "performance": "API latency reduced from 12s to 4s through async implementation",
+      "scalability": "10+ concurrent users supported effectively"
+    },
+    "business_impact": "Provides personalized career guidance for tech professionals transitioning between roles",
+    "links": {
+      "platform": "Available on Hugging Face",
+      "github": "Available on request"
+    }
+  },
+  {
+    "id": "sidebuilds-platform",
+    "title": "SideBuilds.space - Project Showcase Platform",
+    "timeline": "2024",
+    "status": "production",
+    "technologies": [
+      "React",
+      "Node.js",
+      "CockroachDB",
+      "Vercel",
+      "Render",
+      "Stripe API"
+    ],
+    "category": "Full-Stack Web Platform",
+    "description": "Public platform for showcasing and monetizing side projects with integrated portfolio demos",
+    "problem": "Developers need a platform to showcase side projects, get feedback, and potentially monetize their work",
+    "solution": "Full-stack platform with project hosting, portfolio integration, and e-commerce capabilities",
+    "technical_details": {
+      "architecture": [
+        "React frontend deployed on Vercel for fast global CDN",
+        "Node.js backend API deployed on Render for scalability",
+        "CockroachDB for distributed, resilient data storage",
+        "Stripe API integration for payment processing and commission handling"
+      ],
+      "innovations": [
+        "Embedded portfolio demos within project listings",
+        "Integrated marketplace for selling AI-powered apps and RAG prototypes",
+        "Commission-based monetization model for creators"
+      ],
+      "challenges": [
+        "Building scalable architecture for project hosting",
+        "Implementing secure payment processing with commission splits",
+        "Creating intuitive project showcase and discovery interface"
+      ],
+      "learnings": [
+        "Vercel provides excellent developer experience for React deployments",
+        "CockroachDB offers strong consistency for distributed applications",
+        "Stripe API simplifies complex payment and commission workflows"
+      ]
+    },
+    "metrics": {
+      "platform": "Live production platform",
+      "hosting": "Supports hosting of AI-powered apps and RAG prototypes",
+      "monetization": "Commission-based sales platform for side projects"
+    },
+    "business_impact": "Enables developers to showcase, iterate, and monetize their side projects",
+    "links": {
+      "live_site": "https://www.sidebuilds.space/",
+      "status": "Production platform"
+    }
+  },
+  {
+    "id": "saas-chatbot",
+    "title": "SaaS Support Chatbot with Fine-tuned LLM",
+    "timeline": "2024",
+    "status": "completed",
+    "technologies": [
+      "Llama-2-7B",
+      "LangChain",
+      "PEFT/LoRA",
+      "Streamlit",
+      "Python",
+      "A10 GPU"
+    ],
+    "category": "Fine-tuned LLM / Customer Support",
+    "description": "Cost-effective alternative to API-based chatbot solutions using fine-tuned open-source models",
+    "problem": "High costs of API-based chatbot solutions for customer support, need for specialized domain knowledge",
+    "solution": "Fine-tuned Llama-2-7B using parameter-efficient techniques for specialized support conversations",
+    "technical_details": {
+      "architecture": [
+        "Parameter-efficient fine-tuning using LoRA techniques",
+        "5k support conversation dataset for domain-specific training",
+        "A10 GPU deployment for cost-effective inference",
+        "Streamlit interface for user interaction and testing"
+      ],
+      "innovations": [
+        "Cost-effective alternative to hosted API solutions",
+        "Maintained quality while significantly reducing infrastructure costs",
+        "PEFT techniques enabling efficient specialization without full model retraining"
+      ],
+      "challenges": [
+        "Balancing model size vs performance trade-offs",
+        "Optimizing inference for production deployment constraints",
+        "Ensuring response quality across diverse support scenarios"
+      ],
+      "learnings": [
+        "PEFT techniques enable efficient model specialization",
+        "Proper dataset curation critical for fine-tuning performance",
+        "Single GPU deployment viable for many production use cases"
+      ]
+    },
+    "metrics": {
+      "accuracy": "84% accuracy on support conversation evaluation",
+      "cost_savings": "65% cost reduction compared to hosted API solutions",
+      "deployment": "Efficient single A10 GPU deployment"
+    },
+    "business_impact": "Significant cost savings while maintaining customer support quality for SaaS companies"
+  }
+]

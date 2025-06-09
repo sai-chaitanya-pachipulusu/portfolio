@@ -1,0 +1,119 @@
+{
+  "cost_optimization": [
+    {
+      "metric": "$45K annual infrastructure cost savings",
+      "project": "HR Matching Platform",
+      "method": "70% resource efficiency through Kubernetes optimization"
+    },
+    {
+      "metric": "$8K monthly operational cost reduction",
+      "project": "Shell data pipeline",
+      "method": "AWS EC2 migration with Terraform"
+    },
+    {
+      "metric": "65% cost reduction vs API solutions",
+      "project": "SaaS Chatbot",
+      "method": "Fine-tuned Llama-2-7B deployment"
+    },
+    {
+      "metric": "$1.2M in new contracts unlocked",
+      "project": "HR Platform",
+      "method": "Data sovereignty compliance through model distillation"
+    }
+  ],
+  "performance_improvements": [
+    {
+      "metric": "Screening time reduced from 8 to 3 hours per requisition",
+      "context": "HR matching platform"
+    },
+    {
+      "metric": "40% reduction in time-to-hire",
+      "context": "AI-powered candidate ranking"
+    },
+    {
+      "metric": "18% improvement in qualified candidate identification",
+      "context": "Neural reranking across 15,000+ applications"
+    },
+    {
+      "metric": "35% reduction in HR support workload",
+      "context": "RAG-powered support system"
+    },
+    {
+      "metric": "30% reduction in false anomaly alerts",
+      "context": "ML-powered sensor data analysis"
+    },
+    {
+      "metric": "50% reduction in model deployment time",
+      "context": "Containerization with Kubernetes"
+    },
+    {
+      "metric": "28% reduction in equipment downtime",
+      "context": "Predictive maintenance dashboards"
+    }
+  ],
+  "accuracy_and_quality": [
+    {
+      "metric": "97% accuracy maintained with model distillation",
+      "context": "On-premise Phi-3 deployment"
+    },
+    {
+      "metric": "92% RAGAS-evaluated query resolution",
+      "context": "RAG system first-attempt success"
+    },
+    {
+      "metric": "96% positive reception on automated communications",
+      "context": "AI-generated personalized messages"
+    },
+    {
+      "metric": "97% accuracy on FER2013 dataset",
+      "context": "Facial expression recognition system"
+    },
+    {
+      "metric": "0.87 hit@5 score",
+      "context": "Career transition recommendations"
+    },
+    {
+      "metric": "84% accuracy with 65% cost reduction",
+      "context": "Fine-tuned chatbot vs API solutions"
+    }
+  ],
+  "scale_achievements": [
+    {
+      "metric": "15,000+ monthly applications processed",
+      "context": "HR matching platform"
+    },
+    {
+      "metric": "400 events/second real-time processing",
+      "context": "Industrial sensor data streams"
+    },
+    {
+      "metric": "5k vehicle plates processed daily",
+      "context": "Computer vision OCR pipeline"
+    },
+    {
+      "metric": "200+ weekly communications automated",
+      "context": "HR email automation"
+    },
+    {
+      "metric": "99.9% uptime over 6-month period",
+      "context": "Production data pipeline"
+    },
+    {
+      "metric": "10+ concurrent users supported",
+      "context": "Career roadmap generator"
+    },
+    {
+      "metric": "3x traffic spike handling capability",
+      "context": "Kubernetes auto-scaling"
+    }
+  ],
+  "recognition_and_impact": [
+    "Best Employee Q4 2021 at CGI for leading 30% of data migration effort",
+    "Stevens Institute of Technology MS in Machine Learning, CGPA: 3.9",
+    "50+ HR departments using production AI matching platform",
+    "Active contributor on Hugging Face forums and GitHub repositories",
+    "Speaking engagements at ML/AI meetups and technical conferences",
+    "Medium articles reaching AI practitioner community",
+    "Open source contributions to LangChain and ChromaDB improvements"
+  ]
+}

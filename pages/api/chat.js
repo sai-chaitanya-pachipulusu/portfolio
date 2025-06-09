@@ -1,97 +1,62 @@
-import { getLLM } from '../../lib/llm';
-import { getCachedResponse, setCachedResponse } from '../../lib/cache';
-import { graphRAGSearch } from '../../lib/graph-rag';
-import { v4 as uuidv4 } from 'uuid';
+import { getRAGService } from '../../lib/ragService.js';
+import { getLLM } from '../../lib/llm.js';
 
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
-    return res.status(405).json({ message: 'Method not allowed' });
-  }
-
-  const { message, sessionId } = req.body;
-  const currentSessionId = sessionId || uuidv4();
-
-  // Check cache first for instant response
-  const cachedResponse = getCachedResponse(message);
-  if (cachedResponse) {
-    return res.status(200).json({
-      response: cachedResponse.text,
-      sources: cachedResponse.sources,
-      sessionId: currentSessionId,
-      fromCache: true
-    });
+    return res.status(405).json({ error: 'Method not allowed' });
   }
 
   try {
-    // 1. Perform RAG search to get relevant context
-    const searchResults = await graphRAGSearch(message, 5);
+    const { message } = req.body;
     
-    // 2. Format search results into context
-    let context = '';
-    let sources = [];
-
-    if (searchResults && searchResults.length > 0) {
-      // Add content from search results to context
-      context = searchResults
-        .map(result => result.content)
-        .join('\n\n');
-        
-      // Extract source information for citation
-      sources = searchResults.map(result => {
-        const sourceType = result.metadata?.sourceType || 'unknown';
-        // Format source citation based on type
-        if (sourceType === 'resume') {
-          return 'Resume';
-        } else if (sourceType === 'medium') {
-          return 'Medium Article';
-        } else if (sourceType === 'twitter') {
-          return 'Twitter';
-        } else {
-          return sourceType;
-        }
-      });
-      
-      // Remove duplicates
-      sources = [...new Set(sources)];
+    if (!message) {
+      return res.status(400).json({ error: 'Message is required' });
     }
 
-    // 3. Get LLM instance
+    // Get RAG service and search for relevant context
+    const ragService = getRAGService();
+    const searchResult = await ragService.search(message, {
+      maxResults: 5,
+      threshold: 0.3
+    });
+
+    // Get LLM for response generation
     const llm = getLLM();
-
-    // 4. Create prompt with context
-    const prompt = `You are an AI assistant for Sai Chaitanya Pachipulusu, a Machine Learning Engineer specialized in RAG systems and LLMs.
     
-CONTEXT INFORMATION:
-${context}
+    // Create enhanced prompt with context
+    const systemPrompt = `You are Sai Chaitanya Pachipulusu's AI assistant. Use the provided context to answer questions about his background, projects, and expertise. If the context doesn't contain relevant information, provide general guidance but mention that you'd need more specific information.
 
-Based ONLY on the context information provided above, answer the following question from a user.
-If the answer cannot be found in the context, say "I don't have specific information about that, but I'd be happy to share what I know about Sai's experience with ML, AI, and data engineering."
+Context:
+${searchResult.context}
 
-USER QUESTION: ${message}
+Instructions:
+- Be conversational and helpful
+- Reference specific projects, metrics, and achievements when relevant
+- If asked about technical details, provide concrete examples from the context
+- For career advice, draw from Sai's experience and documented insights
+- If the question is outside the context, be honest about limitations`;
 
-ANSWER:`;
+    const userPrompt = `User Question: ${message}
 
-    // 5. Get response from LLM
-    const assistantResponse = await llm.predict(prompt);
-    
-    // 6. Cache the response for future use
-    setCachedResponse(message, { 
-      text: assistantResponse,
-      sources: sources
-    });
+Please provide a helpful response based on Sai's portfolio and expertise.`;
 
-    // 7. Return response with sources
+    // Generate response
+    const response = await llm.predict(`${systemPrompt}\n\n${userPrompt}`);
+
     return res.status(200).json({
-      response: assistantResponse,
-      sources: sources,
-      sessionId: currentSessionId,
+      response: response,
+      sources: searchResult.sources,
+      confidence: searchResult.confidence
     });
+
   } catch (error) {
-    console.error('Chat API Error:', error);
+    console.error('Chat API error:', error);
     
+    // Fallback response
     return res.status(200).json({
-      response: "Sorry, I encountered an error while processing your request. Please try again.",
-      sessionId: currentSessionId
+      response: "I'm having trouble accessing my knowledge base right now. Please feel free to email Sai directly at siai.chaitanyap@gmail.com for any questions about his work and experience.",
+      sources: [],
+      confidence: 0
     });
   }
-}
+} 

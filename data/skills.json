@@ -1,0 +1,165 @@
+{
+  "programming_languages": {
+    "primary": [
+      "Python",
+      "SQL"
+    ],
+    "working_knowledge": [
+      "Java",
+      "C++",
+      "R",
+      "Shell Scripting",
+      "Scala"
+    ]
+  },
+  "machine_learning": {
+    "core_ml": [
+      "Supervised/unsupervised learning",
+      "Computer vision",
+      "NLP/NER",
+      "Recommender systems"
+    ],
+    "deep_learning": [
+      "Neural networks",
+      "CNNs",
+      "RNNs",
+      "LSTMs",
+      "Transformers",
+      "GANs",
+      "VAEs"
+    ],
+    "explainable_ai": [
+      "SHAP",
+      "LIME",
+      "Model interpretability"
+    ],
+    "computer_vision": [
+      "Image classification",
+      "Object detection (YOLO, Faster R-CNN)",
+      "OCR",
+      "Facial recognition"
+    ],
+    "specialized": [
+      "Self-supervised learning",
+      "Transfer learning",
+      "Reinforcement Learning",
+      "Few-shot learning"
+    ]
+  },
+  "generative_ai": {
+    "llms": [
+      "Fine-tuning",
+      "PEFT/LoRA",
+      "Model distillation",
+      "Quantization (INT8/FP16)",
+      "RLHF"
+    ],
+    "rag_systems": [
+      "Vector databases",
+      "Hybrid search (BM25+vector)",
+      "Knowledge graphs",
+      "Embedding models"
+    ],
+    "frameworks": [
+      "LangChain",
+      "LlamaIndex",
+      "Transformers",
+      "RAGAS evaluation"
+    ],
+    "vector_dbs": [
+      "Weaviate",
+      "Pinecone",
+      "ChromaDB",
+      "FAISS"
+    ],
+    "multimodal": [
+      "Vision-language models (CLIP, BLIP)",
+      "Document understanding",
+      "OCR integration"
+    ]
+  },
+  "mlops_devops": {
+    "ml_platforms": [
+      "MLflow",
+      "Kubeflow",
+      "Weights & Biases",
+      "Azure ML",
+      "Vertex AI"
+    ],
+    "containers": [
+      "Docker",
+      "Kubernetes",
+      "KServe",
+      "Blue-green deployment"
+    ],
+    "ci_cd": [
+      "GitHub Actions",
+      "GitLab CI",
+      "Bitbucket Pipelines"
+    ],
+    "infrastructure": [
+      "Terraform",
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "monitoring": [
+      "Prometheus",
+      "Grafana",
+      "Model drift detection",
+      "Custom metrics"
+    ]
+  },
+  "data_engineering": {
+    "streaming": [
+      "Apache Kafka",
+      "Spark Streaming",
+      "Real-time processing"
+    ],
+    "batch_processing": [
+      "Apache Spark",
+      "PySpark",
+      "Apache Airflow",
+      "ETL pipelines"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "BigQuery",
+      "CockroachDB"
+    ],
+    "data_platforms": [
+      "Databricks",
+      "Snowflake",
+      "Hadoop ecosystem"
+    ]
+  },
+  "cloud_platforms": {
+    "aws": [
+      "S3",
+      "EC2",
+      "Lambda",
+      "SageMaker",
+      "Bedrock",
+      "Elastic Beanstalk"
+    ],
+    "gcp": [
+      "Vertex AI",
+      "BigQuery",
+      "Cloud Storage",
+      "STT/TTS",
+      "Natural Language API"
+    ],
+    "azure": [
+      "Azure ML",
+      "AKS",
+      "Container Instances"
+    ],
+    "deployment": [
+      "Serverless",
+      "Container orchestration",
+      "Auto-scaling"
+    ]
+  }
+}

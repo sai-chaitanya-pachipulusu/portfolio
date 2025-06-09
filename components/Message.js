@@ -1,63 +1,82 @@
-import { Flex, Box, Text, Avatar, useColorModeValue } from '@chakra-ui/react';
+import { Box, Text } from '@chakra-ui/react';
 
 const Message = ({ text, isUser, sources = [] }) => {
-  const bgColor = useColorModeValue(
-    isUser ? 'blue.500' : 'gray.700',
-    isUser ? 'blue.500' : 'gray.700'
-  );
-  const textColor = 'white';
-
   return (
-    <Flex justify={isUser ? 'flex-end' : 'flex-start'} mb={4} width="100%">
-      {!isUser && (
-        <Avatar
-          size="sm"
-          name="AI Assistant"
-          src="/images/ai-avatar.png"
-          mr={2}
-          bg="blue.500"
-        />
-      )}
-      <Box
-        maxW="80%"
-        bg={bgColor}
-        color={textColor}
-        px={4}
-        py={2}
-        borderRadius="lg"
-        boxShadow="sm"
-        position="relative"
-        _after={{
-          content: '""',
-          position: 'absolute',
-          width: '0',
-          height: '0',
-          borderStyle: 'solid',
-          borderWidth: isUser ? '0 0 10px 10px' : '10px 10px 0 0',
-          borderColor: isUser 
-            ? 'transparent transparent blue.500 transparent'
-            : 'transparent gray.700 transparent transparent',
-          top: '50%',
-          transform: 'translateY(-50%)',
-          [isUser ? 'right' : 'left']: '-10px',
-        }}
+    <Box
+      textAlign={isUser ? 'right' : 'left'}
+      fontSize="0.9rem"
+      lineHeight="1.6"
+      fontWeight="400"
+      mb="0.75rem"
+      position="relative"
+      transition="all 0.3s ease"
+      animation="messageSlide 0.6s cubic-bezier(0.4, 0, 0.2, 1)"
+      _hover={{
+        transform: isUser ? 'translateX(2px)' : 'translateX(-2px)',
+      }}
+      _after={isUser ? {
+        content: '""',
+        position: 'absolute',
+        right: '-8px',
+        top: '50%',
+        transform: 'translateY(-50%)',
+        width: '3px',
+        height: '3px',
+        bg: '#4a9eff',
+        borderRadius: '50%',
+        animation: 'pulse 2s infinite',
+      } : {}}
+      _before={!isUser ? {
+        content: '"→"',
+        position: 'absolute',
+        left: '-20px',
+        top: 0,
+        color: '#4a9eff',
+        fontWeight: 300,
+        opacity: 0,
+        transition: 'all 0.3s ease',
+        transform: 'translateX(-5px)',
+      } : {}}
+      sx={{
+        '@keyframes messageSlide': {
+          from: {
+            opacity: 0,
+            transform: 'translateY(20px) scale(0.95)',
+          },
+          to: {
+            opacity: 1,
+            transform: 'translateY(0) scale(1)',
+          },
+        },
+        '@keyframes pulse': {
+          '0%, 100%': {
+            opacity: 0.4,
+            transform: 'translateY(-50%) scale(1)',
+          },
+          '50%': {
+            opacity: 1,
+            transform: 'translateY(-50%) scale(1.5)',
+          },
+        },
+        '&:hover::before': !isUser ? {
+          opacity: 0.7,
+          transform: 'translateX(0)',
+        } : {},
+      }}
+    >
+      <Text
+        color={isUser ? '#4a9eff' : 'white'}
+        fontWeight={isUser ? 500 : 400}
+        whiteSpace="pre-line"
       >
-        <Text fontSize="sm" lineHeight="tall">{text}</Text>
-        {sources && sources.length > 0 && (
-          <Text fontSize="xs" mt={1} color="gray.300" opacity={0.8}>
-            Sources: {sources.join(', ')}
-          </Text>
-        )}
-      </Box>
-      {isUser && (
-        <Avatar
-          size="sm"
-          name="User"
-          ml={2}
-          bg="blue.500"
-        />
+        {text}
+      </Text>
+      {sources && sources.length > 0 && (
+        <Text fontSize="xs" mt={1} color="gray.400" opacity={0.8}>
+          Sources: {sources.join(', ')}
+        </Text>
       )}
-    </Flex>
+    </Box>
   );
 };
 
