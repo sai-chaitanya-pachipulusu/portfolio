@@ -1,5 +1,5 @@
-import dbConnect from '../../lib/mongodb';
-import Conversation from '../../lib/Conversation';
+//import dbConnect from '../../lib/mongodb';
+//import Conversation from '../../lib/Conversation';
 
 export default async function handler(req, res) {
   if (req.method !== 'GET') {
