@@ -1,5 +1,5 @@
+import { graphRAGService } from '../../lib/graphRagService.js';
 import { getLLM } from '../../lib/llm.js';
-import { getEnhancedRAGService } from '../../lib/enhancedRagService.js';
 
 export default async function handler(req, res) {
   console.log('Chat API called with:', req.method);
@@ -15,17 +15,16 @@ export default async function handler(req, res) {
   }
 
   try {
-    console.log(`Processing query: ${message}`);
+    console.log(`🔍 Processing: "${message}"`);
     
-    // Use Enhanced RAG Service (Graph RAG)
-    const ragService = getEnhancedRAGService();
-    
-    // Search using Graph RAG
-    const searchResult = await ragService.search(message, {
-      maxResults: 5
+    // Use Graph RAG search
+    const searchResult = await graphRAGService.search(message, {
+      maxResults: 5,
+      useGraphTraversal: true,
+      communityLevel: 1
     });
 
-    console.log(`Graph RAG search completed. Type: ${searchResult.searchType}, Confidence: ${searchResult.confidence}%`);
+    console.log(`📊 Search completed: ${searchResult.searchType}, confidence: ${searchResult.confidence}%`);
     console.log(`Context length: ${searchResult.context?.length || 0} characters`);
 
     // Check if we have context
@@ -41,49 +40,27 @@ export default async function handler(req, res) {
     // Get LLM for response generation
     const llm = getLLM();
     
-    // Create enhanced prompt with context
-    const systemPrompt = `You are Sai Chaitanya Pachipulusu's AI assistant. Use the provided context to answer questions about his background, projects, and expertise.
+    // Generate response with LLM
+    const prompt = `You are Sai Chaitanya Pachipulusu's AI assistant. Answer based on this context:
 
-Question: ${message}
-
-Context:
 ${searchResult.context}
 
-Instructions:
-- Be conversational and helpful
-- Reference specific projects, metrics, and achievements when relevant
-- If asked about technical details, provide concrete examples from the context
-- For career advice, draw from Sai's experience and documented insights
-- If the question is outside the context, be honest about limitations`;
+User Question: ${message}
 
-    const userPrompt = `User Question: ${message}
+Provide a helpful, specific response about Sai's background.`;
 
-Please provide a helpful response based on Sai's portfolio and expertise.`;
-
-    console.log('Sending prompt to LLM...');
-    // Generate response (llm.predict returns a string)
-    const responseText = await llm.predict(`${systemPrompt}\n\n${userPrompt}`);
-    console.log('Response generated successfully');
-
-    // Validate response
-    if (!responseText || responseText.trim().length === 0) {
-      console.error('LLM returned empty response');
-      return res.status(200).json({
-        message: "Based on the information I have, I can tell you about Sai's background. Could you please rephrase your question or ask about his specific projects, education, or technical skills?",
-        sources: searchResult.sources,
-        confidence: 50
-      });
-    }
+    const responseText = await llm.predict(prompt);
 
     return res.status(200).json({
-      message: responseText.trim(),
+      message: responseText,
       sources: searchResult.sources,
       confidence: searchResult.confidence,
-      searchType: searchResult.searchType
+      searchType: searchResult.searchType,
+      graphStats: searchResult.graphStats
     });
 
   } catch (error) {
-    console.error('Chat API error:', error);
+    console.error("❌ Chat error:", error);
     
     // Enhanced fallback with specific answers
     const quickAnswers = {
@@ -105,9 +82,9 @@ Please provide a helpful response based on Sai's portfolio and expertise.`;
     }
     
     return res.status(200).json({
-      message: "I'm Sai's AI assistant! Ask me about his ML engineering experience, projects at Shell/CGI, or his MS from Stevens Institute.",
+      message: "I'm Sai's AI assistant! Ask me about his ML projects, technologies, or experience. (Experiencing technical issues)",
       sources: ['portfolio'],
-      confidence: 70
+      confidence: 50
     });
   }
 }
